@@ -1,0 +1,22 @@
+# Pinned dependencies for this project (versions = what's installed in the
+# IndicEvalAwareness venv this project runs in).
+
+# ---- generate_dataset.py (synthetic SFT dataset generation) ----
+httpx==0.28.1
+numpy==2.5.0
+tqdm==4.68.3
+# (retries, .env parsing, JSON handling and MinHash/LSH dedupe are implemented
+#  in-file; no openai/tenacity/datasketch/sentence-transformers needed there)
+
+# ---- build_rag.py / test_retrieval.py (RAG knowledge base) ----
+sentence-transformers==5.6.0
+torch==2.12.1+cu126          # CPU-only build also fine for the RAG store
+langchain==1.3.11
+langchain-community==0.4.2
+langchain-core==1.4.8
+langchain-huggingface==1.2.2
+langchain-text-splitters==1.1.2
+faiss-cpu==1.14.3
+pypdf==6.14.2
+requests==2.34.2
+beautifulsoup4==4.15.0       # HTML main-content extraction (NHS + Jeugdstem pages)
