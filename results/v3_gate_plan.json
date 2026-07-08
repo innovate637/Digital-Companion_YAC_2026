@@ -1,0 +1,3880 @@
+[
+ {
+  "id": "syn_000027",
+  "gate_fired": false,
+  "best_cos": 0.409,
+  "n_chunks": 0,
+  "context": ""
+ },
+ {
+  "id": "syn_000039",
+  "gate_fired": false,
+  "best_cos": 0.347,
+  "n_chunks": 0,
+  "context": ""
+ },
+ {
+  "id": "syn_000049",
+  "gate_fired": false,
+  "best_cos": 0.464,
+  "n_chunks": 0,
+  "context": ""
+ },
+ {
+  "id": "syn_000050",
+  "gate_fired": false,
+  "best_cos": 0.306,
+  "n_chunks": 0,
+  "context": ""
+ },
+ {
+  "id": "syn_000095",
+  "gate_fired": false,
+  "best_cos": 0.567,
+  "n_chunks": 0,
+  "context": ""
+ },
+ {
+  "id": "syn_000139",
+  "gate_fired": false,
+  "best_cos": 0.366,
+  "n_chunks": 0,
+  "context": ""
+ },
+ {
+  "id": "syn_000163",
+  "gate_fired": false,
+  "best_cos": 0.597,
+  "n_chunks": 0,
+  "context": ""
+ },
+ {
+  "id": "syn_000169",
+  "gate_fired": true,
+  "best_cos": 0.656,
+  "n_chunks": 1,
+  "context": "[1] (another caregiver's experience) I am part of a caregiving organisation since I was 10. In there we had a companion group — caregivers of our own age in a similar situation. That's the support I've had."
+ },
+ {
+  "id": "syn_000200",
+  "gate_fired": false,
+  "best_cos": 0.505,
+  "n_chunks": 0,
+  "context": ""
+ },
+ {
+  "id": "syn_000204",
+  "gate_fired": false,
+  "best_cos": 0.47,
+  "n_chunks": 0,
+  "context": ""
+ },
+ {
+  "id": "syn_000303",
+  "gate_fired": false,
+  "best_cos": 0.487,
+  "n_chunks": 0,
+  "context": ""
+ },
+ {
+  "id": "syn_000304",
+  "gate_fired": false,
+  "best_cos": 0.399,
+  "n_chunks": 0,
+  "context": ""
+ },
+ {
+  "id": "syn_000322",
+  "gate_fired": false,
+  "best_cos": 0.321,
+  "n_chunks": 0,
+  "context": ""
+ },
+ {
+  "id": "syn_000328",
+  "gate_fired": false,
+  "best_cos": 0.57,
+  "n_chunks": 0,
+  "context": ""
+ },
+ {
+  "id": "syn_000352",
+  "gate_fired": false,
+  "best_cos": 0.528,
+  "n_chunks": 0,
+  "context": ""
+ },
+ {
+  "id": "syn_000385",
+  "gate_fired": false,
+  "best_cos": 0.454,
+  "n_chunks": 0,
+  "context": ""
+ },
+ {
+  "id": "syn_000391",
+  "gate_fired": false,
+  "best_cos": 0.357,
+  "n_chunks": 0,
+  "context": ""
+ },
+ {
+  "id": "syn_000392",
+  "gate_fired": false,
+  "best_cos": 0.28,
+  "n_chunks": 0,
+  "context": ""
+ },
+ {
+  "id": "syn_000401",
+  "gate_fired": false,
+  "best_cos": 0.455,
+  "n_chunks": 0,
+  "context": ""
+ },
+ {
+  "id": "syn_000416",
+  "gate_fired": false,
+  "best_cos": 0.582,
+  "n_chunks": 0,
+  "context": ""
+ },
+ {
+  "id": "syn_000423",
+  "gate_fired": false,
+  "best_cos": 0.484,
+  "n_chunks": 0,
+  "context": ""
+ },
+ {
+  "id": "syn_000436",
+  "gate_fired": false,
+  "best_cos": 0.413,
+  "n_chunks": 0,
+  "context": ""
+ },
+ {
+  "id": "syn_000452",
+  "gate_fired": false,
+  "best_cos": 0.432,
+  "n_chunks": 0,
+  "context": ""
+ },
+ {
+  "id": "syn_000453",
+  "gate_fired": false,
+  "best_cos": 0.363,
+  "n_chunks": 0,
+  "context": ""
+ },
+ {
+  "id": "syn_000457",
+  "gate_fired": true,
+  "best_cos": 0.676,
+  "n_chunks": 1,
+  "context": "[1] (another caregiver's experience) I am part of a caregiving organisation since I was 10. In there we had a companion group — caregivers of our own age in a similar situation. That's the support I've had."
+ },
+ {
+  "id": "syn_000467",
+  "gate_fired": false,
+  "best_cos": 0.156,
+  "n_chunks": 0,
+  "context": ""
+ },
+ {
+  "id": "syn_000471",
+  "gate_fired": false,
+  "best_cos": 0.529,
+  "n_chunks": 0,
+  "context": ""
+ },
+ {
+  "id": "syn_000486",
+  "gate_fired": false,
+  "best_cos": 0.495,
+  "n_chunks": 0,
+  "context": ""
+ },
+ {
+  "id": "syn_000530",
+  "gate_fired": false,
+  "best_cos": 0.547,
+  "n_chunks": 0,
+  "context": ""
+ },
+ {
+  "id": "syn_000533",
+  "gate_fired": false,
+  "best_cos": 0.573,
+  "n_chunks": 0,
+  "context": ""
+ },
+ {
+  "id": "syn_000539",
+  "gate_fired": false,
+  "best_cos": 0.447,
+  "n_chunks": 0,
+  "context": ""
+ },
+ {
+  "id": "syn_000572",
+  "gate_fired": false,
+  "best_cos": 0.221,
+  "n_chunks": 0,
+  "context": ""
+ },
+ {
+  "id": "syn_000605",
+  "gate_fired": false,
+  "best_cos": 0.589,
+  "n_chunks": 0,
+  "context": ""
+ },
+ {
+  "id": "syn_000637",
+  "gate_fired": false,
+  "best_cos": 0.556,
+  "n_chunks": 0,
+  "context": ""
+ },
+ {
+  "id": "syn_000645",
+  "gate_fired": true,
+  "best_cos": 0.625,
+  "n_chunks": 1,
+  "context": "[1] (another caregiver's experience) I am part of a caregiving organisation since I was 10. In there we had a companion group — caregivers of our own age in a similar situation. That's the support I've had."
+ },
+ {
+  "id": "syn_000660",
+  "gate_fired": false,
+  "best_cos": 0.593,
+  "n_chunks": 0,
+  "context": ""
+ },
+ {
+  "id": "syn_000678",
+  "gate_fired": true,
+  "best_cos": 0.738,
+  "n_chunks": 3,
+  "context": "[1] (another caregiver's experience) I am part of a caregiving organisation since I was 10. In there we had a companion group — caregivers of our own age in a similar situation. That's the support I've had.\n\n[2] (another caregiver's experience) Yes, I think more contact with fellow informal caregivers would be good. They already exist of course. You can understand each other a bit — but like someone who has MS and with whom I've dealt with for 21 years, that is different from other diseases. Experiences can be very different from each other.\n\n[3] (another caregiver's experience) I think I would use online support much less because I need to trust someone a bit before actually talking about it. And I already know the caregiving consultant who is coaching me, for 8 years or something — that person really knows me. That level of trust is something you can't build online quickly."
+ },
+ {
+  "id": "syn_000686",
+  "gate_fired": false,
+  "best_cos": 0.51,
+  "n_chunks": 0,
+  "context": ""
+ },
+ {
+  "id": "syn_000693",
+  "gate_fired": true,
+  "best_cos": 0.61,
+  "n_chunks": 1,
+  "context": "[1] (another caregiver's experience) I am part of a caregiving organisation since I was 10. In there we had a companion group — caregivers of our own age in a similar situation. That's the support I've had."
+ },
+ {
+  "id": "syn_000712",
+  "gate_fired": true,
+  "best_cos": 0.745,
+  "n_chunks": 1,
+  "context": "[1] (another caregiver's experience) I am part of a caregiving organisation since I was 10. In there we had a companion group — caregivers of our own age in a similar situation. That's the support I've had."
+ },
+ {
+  "id": "syn_000726",
+  "gate_fired": false,
+  "best_cos": 0.351,
+  "n_chunks": 0,
+  "context": ""
+ },
+ {
+  "id": "syn_000744",
+  "gate_fired": false,
+  "best_cos": 0.366,
+  "n_chunks": 0,
+  "context": ""
+ },
+ {
+  "id": "syn_000751",
+  "gate_fired": false,
+  "best_cos": 0.369,
+  "n_chunks": 0,
+  "context": ""
+ },
+ {
+  "id": "syn_000761",
+  "gate_fired": true,
+  "best_cos": 0.766,
+  "n_chunks": 1,
+  "context": "[1] (another caregiver's experience) I find it difficult to keep up with my studies and social life. He becomes suicidal at times and I have to constantly be there for him, as I am the only one who takes care of him."
+ },
+ {
+  "id": "syn_000783",
+  "gate_fired": false,
+  "best_cos": 0.439,
+  "n_chunks": 0,
+  "context": ""
+ },
+ {
+  "id": "syn_000786",
+  "gate_fired": false,
+  "best_cos": 0.468,
+  "n_chunks": 0,
+  "context": ""
+ },
+ {
+  "id": "syn_000817",
+  "gate_fired": false,
+  "best_cos": 0.281,
+  "n_chunks": 0,
+  "context": ""
+ },
+ {
+  "id": "syn_000846",
+  "gate_fired": false,
+  "best_cos": 0.449,
+  "n_chunks": 0,
+  "context": ""
+ },
+ {
+  "id": "syn_000852",
+  "gate_fired": false,
+  "best_cos": 0.322,
+  "n_chunks": 0,
+  "context": ""
+ },
+ {
+  "id": "syn_000866",
+  "gate_fired": false,
+  "best_cos": 0.307,
+  "n_chunks": 0,
+  "context": ""
+ },
+ {
+  "id": "syn_000868",
+  "gate_fired": false,
+  "best_cos": 0.467,
+  "n_chunks": 0,
+  "context": ""
+ },
+ {
+  "id": "syn_000875",
+  "gate_fired": false,
+  "best_cos": 0.332,
+  "n_chunks": 0,
+  "context": ""
+ },
+ {
+  "id": "syn_000906",
+  "gate_fired": false,
+  "best_cos": 0.583,
+  "n_chunks": 0,
+  "context": ""
+ },
+ {
+  "id": "syn_000955",
+  "gate_fired": false,
+  "best_cos": 0.511,
+  "n_chunks": 0,
+  "context": ""
+ },
+ {
+  "id": "syn_000979",
+  "gate_fired": false,
+  "best_cos": 0.396,
+  "n_chunks": 0,
+  "context": ""
+ },
+ {
+  "id": "syn_001060",
+  "gate_fired": false,
+  "best_cos": 0.427,
+  "n_chunks": 0,
+  "context": ""
+ },
+ {
+  "id": "syn_001063",
+  "gate_fired": false,
+  "best_cos": 0.431,
+  "n_chunks": 0,
+  "context": ""
+ },
+ {
+  "id": "syn_001077",
+  "gate_fired": true,
+  "best_cos": 0.648,
+  "n_chunks": 1,
+  "context": "[1] (another caregiver's experience) Last year when COVID hit and everything was put online it was quite challenging to take care of him as well as trying to concentrate, so I ended up working a lot of the time, long hours into the evenings — around 2, 3, 4 in the morning — just to try to catch up with coursework. I suffered a lot and failed a lot of my courses last year because I couldn't really keep up with having to take care of him and doing coursework."
+ },
+ {
+  "id": "syn_001084",
+  "gate_fired": false,
+  "best_cos": 0.292,
+  "n_chunks": 0,
+  "context": ""
+ },
+ {
+  "id": "syn_001109",
+  "gate_fired": false,
+  "best_cos": 0.251,
+  "n_chunks": 0,
+  "context": ""
+ },
+ {
+  "id": "syn_001111",
+  "gate_fired": false,
+  "best_cos": 0.205,
+  "n_chunks": 0,
+  "context": ""
+ },
+ {
+  "id": "syn_001124",
+  "gate_fired": false,
+  "best_cos": 0.307,
+  "n_chunks": 0,
+  "context": ""
+ },
+ {
+  "id": "syn_001178",
+  "gate_fired": false,
+  "best_cos": 0.541,
+  "n_chunks": 0,
+  "context": ""
+ },
+ {
+  "id": "syn_001183",
+  "gate_fired": true,
+  "best_cos": 0.742,
+  "n_chunks": 1,
+  "context": "[1] (another caregiver's experience) I am part of a caregiving organisation since I was 10. In there we had a companion group — caregivers of our own age in a similar situation. That's the support I've had."
+ },
+ {
+  "id": "syn_001191",
+  "gate_fired": true,
+  "best_cos": 0.742,
+  "n_chunks": 1,
+  "context": "[1] (another caregiver's experience) I am part of a caregiving organisation since I was 10. In there we had a companion group — caregivers of our own age in a similar situation. That's the support I've had."
+ },
+ {
+  "id": "syn_001201",
+  "gate_fired": true,
+  "best_cos": 0.803,
+  "n_chunks": 2,
+  "context": "[1] (another caregiver's experience) I am part of a caregiving organisation since I was 10. In there we had a companion group — caregivers of our own age in a similar situation. That's the support I've had.\n\n[2] (another caregiver's experience) Yes, I think more contact with fellow informal caregivers would be good. They already exist of course. You can understand each other a bit — but like someone who has MS and with whom I've dealt with for 21 years, that is different from other diseases. Experiences can be very different from each other."
+ },
+ {
+  "id": "syn_001209",
+  "gate_fired": true,
+  "best_cos": 0.719,
+  "n_chunks": 1,
+  "context": "[1] (another caregiver's experience) I am part of a caregiving organisation since I was 10. In there we had a companion group — caregivers of our own age in a similar situation. That's the support I've had."
+ },
+ {
+  "id": "syn_001238",
+  "gate_fired": false,
+  "best_cos": 0.372,
+  "n_chunks": 0,
+  "context": ""
+ },
+ {
+  "id": "syn_001287",
+  "gate_fired": false,
+  "best_cos": 0.355,
+  "n_chunks": 0,
+  "context": ""
+ },
+ {
+  "id": "syn_001317",
+  "gate_fired": false,
+  "best_cos": 0.371,
+  "n_chunks": 0,
+  "context": ""
+ },
+ {
+  "id": "syn_001318",
+  "gate_fired": false,
+  "best_cos": 0.537,
+  "n_chunks": 0,
+  "context": ""
+ },
+ {
+  "id": "syn_001338",
+  "gate_fired": false,
+  "best_cos": 0.434,
+  "n_chunks": 0,
+  "context": ""
+ },
+ {
+  "id": "syn_001357",
+  "gate_fired": false,
+  "best_cos": 0.473,
+  "n_chunks": 0,
+  "context": ""
+ },
+ {
+  "id": "syn_001377",
+  "gate_fired": true,
+  "best_cos": 0.606,
+  "n_chunks": 1,
+  "context": "[1] (another caregiver's experience) That would be perfect, especially since I now live in another country. Getting support online — especially information — is what is most needed, I think. But in terms of formal actual support, I think it wouldn't be as useful, because the reason why my support works with her is because there's a really close relationship between us. Information about how I should act or how I should talk would be a bit more useful."
+ },
+ {
+  "id": "syn_001382",
+  "gate_fired": true,
+  "best_cos": 0.631,
+  "n_chunks": 2,
+  "context": "[1] (another caregiver's experience) Yes, I think more contact with fellow informal caregivers would be good. They already exist of course. You can understand each other a bit — but like someone who has MS and with whom I've dealt with for 21 years, that is different from other diseases. Experiences can be very different from each other.\n\n[2] (guide: Help for young carers (NHS)) Some young carers find it easier to talk about the situation if they keep a diary or a list of all the jobs and tasks they have to do.\nIf you're having trouble with school or homework, your teachers may offer:\nextra time for school work when you have to give more help to the person you care for\nto talk to you privately about your home life\nSupport at school\nThere are lots of ways your school can help. You could be allowed to use a phone during breaks and lunchtime so you can check on the person you're looking after.\nThe school could also put you in touch with your local young carers service, or get a young carers worker to talk to you.\nSome schools run lunchtime groups or homework support groups for young carers. If your school does not do this, you could suggest it to your teachers."
+ },
+ {
+  "id": "syn_001385",
+  "gate_fired": true,
+  "best_cos": 0.66,
+  "n_chunks": 3,
+  "context": "[1] (guide: Young carers: Shaping our future (The Children's Society)) where can I get more \nhelp and support?\nThroughout this booklet we have suggested websites and resources which \nmay be able to help you further. We have outlined them all in this section, \nalong with some extra links which may be helpful. \nThe ‘Know your rights’ pack helps make you aware of your rights: your human \nand legal rights, and your rights to access things like benefits, support and advice. \nThe pack also contains information about the different professionals that you or \nyour family might be in contact with. childrenssociety.org.uk/sites/default/files/\nDownloadableResources/know_your_rights.pdf\nYoung Carers in Schools is an England-wide programme that helps schools identify \nand support young carers and awards good practice. youngcarersinschools.com\nucas.com/undergraduate/applying-university/individual-needs/students-caringresponsibilities Many universities and colleges have initiatives or support programmes \nin place to help students with caring responsibilities.\n\n[2] (guide: Balancing caregiving and career: tips for starting your new job strong (Bright Horizons)) other young carers is a great way to make new friends, have some fun and share some of your worries with people in similar situations to your own. Young carers projects can help you have a break from home, plus meeting other young carers can help you to relax. Young carers projects may offer evening clubs, weekends away, days out and even holidays, as well as friendly advice and information for you and for your family. The Children's Society can help you find a young carer group in your local area. They also run the Young Carers Festival. Sense run online and in-person activities for young carers under 18. Help from social workers A social worker from your local council has to visit, if you or your parents request this. Social workers may be asked to help a young carer's family if there are problems that the family members are finding hard to sort out on their own.\n\n[3] (guide: Young carers: Shaping our future (The Children's Society)) Think about who you can talk to, those people that \ncan listen, support and guide you. This could include \nfriends, family members, a project worker or a \nteacher. Who else could you connect with that could \nhelp you as a young adult carer?\nME \nNavigating your way through decisions alongside your caring role can be \ndifficult. But getting as much support as possible can really help you and your \nfamily receive the right assistance, so that you can follow your own dreams \nand aspirations for the future.\nShaping Your Future | 22"
+ },
+ {
+  "id": "syn_001409",
+  "gate_fired": true,
+  "best_cos": 0.602,
+  "n_chunks": 1,
+  "context": "[1] (another caregiver's experience) I am part of a caregiving organisation since I was 10. In there we had a companion group — caregivers of our own age in a similar situation. That's the support I've had."
+ },
+ {
+  "id": "syn_001430",
+  "gate_fired": false,
+  "best_cos": 0.378,
+  "n_chunks": 0,
+  "context": ""
+ },
+ {
+  "id": "syn_001496",
+  "gate_fired": false,
+  "best_cos": 0.557,
+  "n_chunks": 0,
+  "context": ""
+ },
+ {
+  "id": "syn_001498",
+  "gate_fired": false,
+  "best_cos": 0.562,
+  "n_chunks": 0,
+  "context": ""
+ },
+ {
+  "id": "syn_001528",
+  "gate_fired": false,
+  "best_cos": 0.468,
+  "n_chunks": 0,
+  "context": ""
+ },
+ {
+  "id": "syn_001563",
+  "gate_fired": false,
+  "best_cos": 0.339,
+  "n_chunks": 0,
+  "context": ""
+ },
+ {
+  "id": "syn_001567",
+  "gate_fired": false,
+  "best_cos": 0.126,
+  "n_chunks": 0,
+  "context": ""
+ },
+ {
+  "id": "syn_001586",
+  "gate_fired": false,
+  "best_cos": 0.484,
+  "n_chunks": 0,
+  "context": ""
+ },
+ {
+  "id": "syn_001597",
+  "gate_fired": false,
+  "best_cos": 0.329,
+  "n_chunks": 0,
+  "context": ""
+ },
+ {
+  "id": "syn_001662",
+  "gate_fired": false,
+  "best_cos": 0.389,
+  "n_chunks": 0,
+  "context": ""
+ },
+ {
+  "id": "syn_001668",
+  "gate_fired": false,
+  "best_cos": 0.578,
+  "n_chunks": 0,
+  "context": ""
+ },
+ {
+  "id": "syn_001670",
+  "gate_fired": true,
+  "best_cos": 0.692,
+  "n_chunks": 3,
+  "context": "[1] (guide: Young carers: Shaping our future (The Children's Society)) childrenssociety.org.uk/youngcarer/advice-for-young-people/well-being-andmental-health provides advice on your own mental health and well-being. \ngov.uk/apprenticeships-guide is a guide to apprenticeships combining practical training \nin a job with study.\ncarers.org/sites/default/files/media/employment_booklet_a5_leaflet_version_4_\nfinal.pdf a guide to getting into employment for young adult carers.\ncarersuk.org/forum/support-and-advice/young-adult-carers is a place for those \n18 to 35 to chat about all things caring.\nmoneyadviceservice.org.uk/en/articles/financial-support-for-young-carers details \nfinancial support for young carers.\ncitizensadvice.org.uk/ offers free, confidential information and advice to assist people \nwith money, legal, consumer and other problems.\nthemix.org.uk/ provides information and advice to young people under the age of \n25 on things such as mental health, relationships and money. You can also call the\n\n[2] (guide: Help for young carers (NHS)) Local mental health nurses can offer emotional support and advice about mental health conditions. If the person you care for has a \"community psychiatric nurse\", you can talk to the nurse about their condition and how you can help them cope.\nIf you're worried about your own mental health, you can\nfind out more about mental health support for children and young people\n. There are services all over the country helping young people with mental health conditions.\nMacmillan nurses from the national charity\nMacmillan Cancer Support\ncan help people who are affected by cancer and young carers. They provide a range of medical and emotional support for people who have cancer, and their families.\nOther organisations that can help young carers\noffers information and advice for young carers, and runs local support services.\nby Action for Children is a text message and email support service for young carers.\nhas information on money, benefits and your rights.\nNational Careers Service\n\n[3] (guide: Help for young carers (NHS)) can help you find a young carer group in your local area. They also run the\nYoung Carers Festival\n.\nrun online and in-person activities for young carers under 18.\nHelp from social workers\nA social worker from your local council has to visit, if you or your parents request this.\nSocial workers may be asked to help a young carer's family if there are problems that the family members are finding hard to sort out on their own.\nHelp from doctors, nurses and other health workers\nIf you're worried about your health, or the health of the person you care for, speak to a doctor or GP.\nSchool nurses visit schools and are usually happy to speak with you about any of your health concerns.\nCounsellors work in a variety of places, including schools, hospitals and youth centres. Their job is to listen carefully and give advice – in a private setting."
+ },
+ {
+  "id": "syn_001685",
+  "gate_fired": false,
+  "best_cos": 0.56,
+  "n_chunks": 0,
+  "context": ""
+ },
+ {
+  "id": "syn_001709",
+  "gate_fired": true,
+  "best_cos": 0.62,
+  "n_chunks": 1,
+  "context": "[1] (another caregiver's experience) I am part of a caregiving organisation since I was 10. In there we had a companion group — caregivers of our own age in a similar situation. That's the support I've had."
+ },
+ {
+  "id": "syn_001726",
+  "gate_fired": false,
+  "best_cos": 0.503,
+  "n_chunks": 0,
+  "context": ""
+ },
+ {
+  "id": "syn_001727",
+  "gate_fired": true,
+  "best_cos": 0.64,
+  "n_chunks": 2,
+  "context": "[1] (another caregiver's experience) I am part of a caregiving organisation since I was 10. In there we had a companion group — caregivers of our own age in a similar situation. That's the support I've had.\n\n[2] (another caregiver's experience) Yes, I think more contact with fellow informal caregivers would be good. They already exist of course. You can understand each other a bit — but like someone who has MS and with whom I've dealt with for 21 years, that is different from other diseases. Experiences can be very different from each other."
+ },
+ {
+  "id": "syn_001746",
+  "gate_fired": false,
+  "best_cos": 0.441,
+  "n_chunks": 0,
+  "context": ""
+ },
+ {
+  "id": "syn_001747",
+  "gate_fired": false,
+  "best_cos": 0.549,
+  "n_chunks": 0,
+  "context": ""
+ },
+ {
+  "id": "syn_001765",
+  "gate_fired": false,
+  "best_cos": 0.567,
+  "n_chunks": 0,
+  "context": ""
+ },
+ {
+  "id": "syn_001766",
+  "gate_fired": false,
+  "best_cos": 0.419,
+  "n_chunks": 0,
+  "context": ""
+ },
+ {
+  "id": "syn_001768",
+  "gate_fired": false,
+  "best_cos": 0.516,
+  "n_chunks": 0,
+  "context": ""
+ },
+ {
+  "id": "syn_001770",
+  "gate_fired": false,
+  "best_cos": 0.361,
+  "n_chunks": 0,
+  "context": ""
+ },
+ {
+  "id": "syn_001819",
+  "gate_fired": false,
+  "best_cos": 0.294,
+  "n_chunks": 0,
+  "context": ""
+ },
+ {
+  "id": "syn_001822",
+  "gate_fired": false,
+  "best_cos": 0.47,
+  "n_chunks": 0,
+  "context": ""
+ },
+ {
+  "id": "syn_001833",
+  "gate_fired": false,
+  "best_cos": 0.456,
+  "n_chunks": 0,
+  "context": ""
+ },
+ {
+  "id": "syn_001842",
+  "gate_fired": false,
+  "best_cos": 0.371,
+  "n_chunks": 0,
+  "context": ""
+ },
+ {
+  "id": "syn_001845",
+  "gate_fired": false,
+  "best_cos": 0.388,
+  "n_chunks": 0,
+  "context": ""
+ },
+ {
+  "id": "syn_001872",
+  "gate_fired": false,
+  "best_cos": 0.411,
+  "n_chunks": 0,
+  "context": ""
+ },
+ {
+  "id": "syn_001877",
+  "gate_fired": false,
+  "best_cos": 0.396,
+  "n_chunks": 0,
+  "context": ""
+ },
+ {
+  "id": "syn_001969",
+  "gate_fired": false,
+  "best_cos": 0.292,
+  "n_chunks": 0,
+  "context": ""
+ },
+ {
+  "id": "syn_002012",
+  "gate_fired": false,
+  "best_cos": 0.529,
+  "n_chunks": 0,
+  "context": ""
+ },
+ {
+  "id": "syn_002025",
+  "gate_fired": false,
+  "best_cos": 0.588,
+  "n_chunks": 0,
+  "context": ""
+ },
+ {
+  "id": "syn_002040",
+  "gate_fired": false,
+  "best_cos": 0.366,
+  "n_chunks": 0,
+  "context": ""
+ },
+ {
+  "id": "syn_002054",
+  "gate_fired": false,
+  "best_cos": 0.353,
+  "n_chunks": 0,
+  "context": ""
+ },
+ {
+  "id": "syn_002094",
+  "gate_fired": false,
+  "best_cos": 0.472,
+  "n_chunks": 0,
+  "context": ""
+ },
+ {
+  "id": "syn_002132",
+  "gate_fired": false,
+  "best_cos": 0.185,
+  "n_chunks": 0,
+  "context": ""
+ },
+ {
+  "id": "syn_002175",
+  "gate_fired": true,
+  "best_cos": 0.765,
+  "n_chunks": 1,
+  "context": "[1] (another caregiver's experience) I am part of a caregiving organisation since I was 10. In there we had a companion group — caregivers of our own age in a similar situation. That's the support I've had."
+ },
+ {
+  "id": "syn_002176",
+  "gate_fired": false,
+  "best_cos": 0.177,
+  "n_chunks": 0,
+  "context": ""
+ },
+ {
+  "id": "syn_002211",
+  "gate_fired": false,
+  "best_cos": 0.565,
+  "n_chunks": 0,
+  "context": ""
+ },
+ {
+  "id": "syn_002226",
+  "gate_fired": false,
+  "best_cos": 0.41,
+  "n_chunks": 0,
+  "context": ""
+ },
+ {
+  "id": "syn_002256",
+  "gate_fired": false,
+  "best_cos": 0.534,
+  "n_chunks": 0,
+  "context": ""
+ },
+ {
+  "id": "syn_002266",
+  "gate_fired": false,
+  "best_cos": 0.477,
+  "n_chunks": 0,
+  "context": ""
+ },
+ {
+  "id": "syn_002273",
+  "gate_fired": true,
+  "best_cos": 0.64,
+  "n_chunks": 2,
+  "context": "[1] (guide: Balancing caregiving and career: tips for starting your new job strong (Bright Horizons)) With time and small adjustments, you will land on a routine that supports both your career and caregiving role! \nSet clear boundaries. Without clear boundaries, work and caregiving can easily overlap, leaving you overwhelmed, which is why creating a separation between\n\n[2] (another caregiver's experience) Last year when COVID hit and everything was put online it was quite challenging to take care of him as well as trying to concentrate, so I ended up working a lot of the time, long hours into the evenings — around 2, 3, 4 in the morning — just to try to catch up with coursework. I suffered a lot and failed a lot of my courses last year because I couldn't really keep up with having to take care of him and doing coursework."
+ },
+ {
+  "id": "syn_002292",
+  "gate_fired": false,
+  "best_cos": 0.45,
+  "n_chunks": 0,
+  "context": ""
+ },
+ {
+  "id": "syn_002363",
+  "gate_fired": false,
+  "best_cos": 0.19,
+  "n_chunks": 0,
+  "context": ""
+ },
+ {
+  "id": "syn_002392",
+  "gate_fired": false,
+  "best_cos": 0.445,
+  "n_chunks": 0,
+  "context": ""
+ },
+ {
+  "id": "syn_002476",
+  "gate_fired": false,
+  "best_cos": 0.469,
+  "n_chunks": 0,
+  "context": ""
+ },
+ {
+  "id": "syn_002482",
+  "gate_fired": true,
+  "best_cos": 0.671,
+  "n_chunks": 2,
+  "context": "[1] (another caregiver's experience) Last year when COVID hit and everything was put online it was quite challenging to take care of him as well as trying to concentrate, so I ended up working a lot of the time, long hours into the evenings — around 2, 3, 4 in the morning — just to try to catch up with coursework. I suffered a lot and failed a lot of my courses last year because I couldn't really keep up with having to take care of him and doing coursework.\n\n[2] (guide: Help for young carers (NHS)) Some young carers find it easier to talk about the situation if they keep a diary or a list of all the jobs and tasks they have to do.\nIf you're having trouble with school or homework, your teachers may offer:\nextra time for school work when you have to give more help to the person you care for\nto talk to you privately about your home life\nSupport at school\nThere are lots of ways your school can help. You could be allowed to use a phone during breaks and lunchtime so you can check on the person you're looking after.\nThe school could also put you in touch with your local young carers service, or get a young carers worker to talk to you.\nSome schools run lunchtime groups or homework support groups for young carers. If your school does not do this, you could suggest it to your teachers."
+ },
+ {
+  "id": "syn_002559",
+  "gate_fired": false,
+  "best_cos": 0.436,
+  "n_chunks": 0,
+  "context": ""
+ },
+ {
+  "id": "syn_002581",
+  "gate_fired": false,
+  "best_cos": 0.515,
+  "n_chunks": 0,
+  "context": ""
+ },
+ {
+  "id": "syn_002603",
+  "gate_fired": false,
+  "best_cos": 0.319,
+  "n_chunks": 0,
+  "context": ""
+ },
+ {
+  "id": "syn_002621",
+  "gate_fired": false,
+  "best_cos": 0.509,
+  "n_chunks": 0,
+  "context": ""
+ },
+ {
+  "id": "syn_002664",
+  "gate_fired": false,
+  "best_cos": 0.351,
+  "n_chunks": 0,
+  "context": ""
+ },
+ {
+  "id": "syn_002669",
+  "gate_fired": false,
+  "best_cos": 0.411,
+  "n_chunks": 0,
+  "context": ""
+ },
+ {
+  "id": "syn_002676",
+  "gate_fired": true,
+  "best_cos": 0.63,
+  "n_chunks": 1,
+  "context": "[1] (another caregiver's experience) I am part of a caregiving organisation since I was 10. In there we had a companion group — caregivers of our own age in a similar situation. That's the support I've had."
+ },
+ {
+  "id": "syn_002679",
+  "gate_fired": true,
+  "best_cos": 0.604,
+  "n_chunks": 1,
+  "context": "[1] (another caregiver's experience) Every year we go to MS children's camps, arranged by the UMCG. You basically go with all other children who also have a parent or family member with MS. It's a weekend of fun activities, and it's free of charge — so those with low income can also go. Parents can send their child there so they can get in contact with fellow sufferers, children in similar situations. And so they can be away from home for a weekend."
+ },
+ {
+  "id": "syn_002682",
+  "gate_fired": false,
+  "best_cos": 0.528,
+  "n_chunks": 0,
+  "context": ""
+ },
+ {
+  "id": "syn_002769",
+  "gate_fired": false,
+  "best_cos": 0.512,
+  "n_chunks": 0,
+  "context": ""
+ },
+ {
+  "id": "syn_002795",
+  "gate_fired": false,
+  "best_cos": 0.566,
+  "n_chunks": 0,
+  "context": ""
+ },
+ {
+  "id": "syn_002813",
+  "gate_fired": false,
+  "best_cos": 0.492,
+  "n_chunks": 0,
+  "context": ""
+ },
+ {
+  "id": "syn_002929",
+  "gate_fired": true,
+  "best_cos": 0.915,
+  "n_chunks": 3,
+  "context": "[1] (another caregiver's experience) I am part of a caregiving organisation since I was 10. In there we had a companion group — caregivers of our own age in a similar situation. That's the support I've had.\n\n[2] (another caregiver's experience) Yes, I think more contact with fellow informal caregivers would be good. They already exist of course. You can understand each other a bit — but like someone who has MS and with whom I've dealt with for 21 years, that is different from other diseases. Experiences can be very different from each other.\n\n[3] (guide: Help for young carers (NHS)) Some young carers find it easier to talk about the situation if they keep a diary or a list of all the jobs and tasks they have to do.\nIf you're having trouble with school or homework, your teachers may offer:\nextra time for school work when you have to give more help to the person you care for\nto talk to you privately about your home life\nSupport at school\nThere are lots of ways your school can help. You could be allowed to use a phone during breaks and lunchtime so you can check on the person you're looking after.\nThe school could also put you in touch with your local young carers service, or get a young carers worker to talk to you.\nSome schools run lunchtime groups or homework support groups for young carers. If your school does not do this, you could suggest it to your teachers."
+ },
+ {
+  "id": "syn_002941",
+  "gate_fired": true,
+  "best_cos": 0.717,
+  "n_chunks": 2,
+  "context": "[1] (another caregiver's experience) I am part of a caregiving organisation since I was 10. In there we had a companion group — caregivers of our own age in a similar situation. That's the support I've had.\n\n[2] (another caregiver's experience) Yes, I think more contact with fellow informal caregivers would be good. They already exist of course. You can understand each other a bit — but like someone who has MS and with whom I've dealt with for 21 years, that is different from other diseases. Experiences can be very different from each other."
+ },
+ {
+  "id": "syn_002965",
+  "gate_fired": true,
+  "best_cos": 0.628,
+  "n_chunks": 1,
+  "context": "[1] (another caregiver's experience) I think I would use online support much less because I need to trust someone a bit before actually talking about it. And I already know the caregiving consultant who is coaching me, for 8 years or something — that person really knows me. That level of trust is something you can't build online quickly."
+ },
+ {
+  "id": "syn_002979",
+  "gate_fired": false,
+  "best_cos": 0.287,
+  "n_chunks": 0,
+  "context": ""
+ },
+ {
+  "id": "syn_003010",
+  "gate_fired": false,
+  "best_cos": 0.558,
+  "n_chunks": 0,
+  "context": ""
+ },
+ {
+  "id": "syn_003020",
+  "gate_fired": true,
+  "best_cos": 0.66,
+  "n_chunks": 1,
+  "context": "[1] (another caregiver's experience) I am part of a caregiving organisation since I was 10. In there we had a companion group — caregivers of our own age in a similar situation. That's the support I've had."
+ },
+ {
+  "id": "syn_003072",
+  "gate_fired": false,
+  "best_cos": 0.369,
+  "n_chunks": 0,
+  "context": ""
+ },
+ {
+  "id": "syn_003086",
+  "gate_fired": false,
+  "best_cos": 0.534,
+  "n_chunks": 0,
+  "context": ""
+ },
+ {
+  "id": "syn_003104",
+  "gate_fired": false,
+  "best_cos": 0.39,
+  "n_chunks": 0,
+  "context": ""
+ },
+ {
+  "id": "syn_003125",
+  "gate_fired": false,
+  "best_cos": 0.285,
+  "n_chunks": 0,
+  "context": ""
+ },
+ {
+  "id": "syn_003132",
+  "gate_fired": true,
+  "best_cos": 0.665,
+  "n_chunks": 2,
+  "context": "[1] (another caregiver's experience) I am part of a caregiving organisation since I was 10. In there we had a companion group — caregivers of our own age in a similar situation. That's the support I've had.\n\n[2] (another caregiver's experience) I think just telling your story without someone immediately judging, or referring you, or thinking you need more help. Just someone who listens and thinks along when necessary — mainly that. I like that about the support from the caregiving organisation."
+ },
+ {
+  "id": "syn_003134",
+  "gate_fired": true,
+  "best_cos": 0.609,
+  "n_chunks": 1,
+  "context": "[1] (another caregiver's experience) Last year when COVID hit and everything was put online it was quite challenging to take care of him as well as trying to concentrate, so I ended up working a lot of the time, long hours into the evenings — around 2, 3, 4 in the morning — just to try to catch up with coursework. I suffered a lot and failed a lot of my courses last year because I couldn't really keep up with having to take care of him and doing coursework."
+ },
+ {
+  "id": "syn_003136",
+  "gate_fired": false,
+  "best_cos": 0.414,
+  "n_chunks": 0,
+  "context": ""
+ },
+ {
+  "id": "syn_003173",
+  "gate_fired": false,
+  "best_cos": 0.132,
+  "n_chunks": 0,
+  "context": ""
+ },
+ {
+  "id": "syn_003203",
+  "gate_fired": false,
+  "best_cos": 0.49,
+  "n_chunks": 0,
+  "context": ""
+ },
+ {
+  "id": "syn_003233",
+  "gate_fired": false,
+  "best_cos": 0.408,
+  "n_chunks": 0,
+  "context": ""
+ },
+ {
+  "id": "syn_003261",
+  "gate_fired": false,
+  "best_cos": 0.588,
+  "n_chunks": 0,
+  "context": ""
+ },
+ {
+  "id": "syn_003283",
+  "gate_fired": false,
+  "best_cos": 0.246,
+  "n_chunks": 0,
+  "context": ""
+ },
+ {
+  "id": "syn_003308",
+  "gate_fired": false,
+  "best_cos": 0.312,
+  "n_chunks": 0,
+  "context": ""
+ },
+ {
+  "id": "syn_003319",
+  "gate_fired": true,
+  "best_cos": 0.603,
+  "n_chunks": 1,
+  "context": "[1] (another caregiver's experience) I find it difficult to keep up with my studies and social life. He becomes suicidal at times and I have to constantly be there for him, as I am the only one who takes care of him."
+ },
+ {
+  "id": "syn_003340",
+  "gate_fired": false,
+  "best_cos": 0.375,
+  "n_chunks": 0,
+  "context": ""
+ },
+ {
+  "id": "syn_003392",
+  "gate_fired": false,
+  "best_cos": 0.474,
+  "n_chunks": 0,
+  "context": ""
+ },
+ {
+  "id": "syn_003418",
+  "gate_fired": false,
+  "best_cos": 0.524,
+  "n_chunks": 0,
+  "context": ""
+ },
+ {
+  "id": "syn_003441",
+  "gate_fired": false,
+  "best_cos": 0.386,
+  "n_chunks": 0,
+  "context": ""
+ },
+ {
+  "id": "syn_003459",
+  "gate_fired": false,
+  "best_cos": 0.414,
+  "n_chunks": 0,
+  "context": ""
+ },
+ {
+  "id": "syn_003474",
+  "gate_fired": false,
+  "best_cos": 0.461,
+  "n_chunks": 0,
+  "context": ""
+ },
+ {
+  "id": "syn_003496",
+  "gate_fired": false,
+  "best_cos": 0.393,
+  "n_chunks": 0,
+  "context": ""
+ },
+ {
+  "id": "syn_003500",
+  "gate_fired": false,
+  "best_cos": 0.297,
+  "n_chunks": 0,
+  "context": ""
+ },
+ {
+  "id": "syn_003513",
+  "gate_fired": false,
+  "best_cos": 0.599,
+  "n_chunks": 0,
+  "context": ""
+ },
+ {
+  "id": "syn_003515",
+  "gate_fired": false,
+  "best_cos": 0.499,
+  "n_chunks": 0,
+  "context": ""
+ },
+ {
+  "id": "syn_003528",
+  "gate_fired": false,
+  "best_cos": 0.391,
+  "n_chunks": 0,
+  "context": ""
+ },
+ {
+  "id": "syn_003531",
+  "gate_fired": false,
+  "best_cos": 0.507,
+  "n_chunks": 0,
+  "context": ""
+ },
+ {
+  "id": "syn_003550",
+  "gate_fired": true,
+  "best_cos": 0.709,
+  "n_chunks": 1,
+  "context": "[1] (another caregiver's experience) I am part of a caregiving organisation since I was 10. In there we had a companion group — caregivers of our own age in a similar situation. That's the support I've had."
+ },
+ {
+  "id": "syn_003559",
+  "gate_fired": false,
+  "best_cos": 0.291,
+  "n_chunks": 0,
+  "context": ""
+ },
+ {
+  "id": "syn_003564",
+  "gate_fired": false,
+  "best_cos": 0.36,
+  "n_chunks": 0,
+  "context": ""
+ },
+ {
+  "id": "syn_003588",
+  "gate_fired": true,
+  "best_cos": 0.629,
+  "n_chunks": 1,
+  "context": "[1] (another caregiver's experience) I am part of a caregiving organisation since I was 10. In there we had a companion group — caregivers of our own age in a similar situation. That's the support I've had."
+ },
+ {
+  "id": "syn_003594",
+  "gate_fired": false,
+  "best_cos": 0.411,
+  "n_chunks": 0,
+  "context": ""
+ },
+ {
+  "id": "syn_003606",
+  "gate_fired": false,
+  "best_cos": 0.275,
+  "n_chunks": 0,
+  "context": ""
+ },
+ {
+  "id": "syn_003608",
+  "gate_fired": false,
+  "best_cos": 0.358,
+  "n_chunks": 0,
+  "context": ""
+ },
+ {
+  "id": "syn_003610",
+  "gate_fired": false,
+  "best_cos": 0.562,
+  "n_chunks": 0,
+  "context": ""
+ },
+ {
+  "id": "syn_003623",
+  "gate_fired": false,
+  "best_cos": 0.441,
+  "n_chunks": 0,
+  "context": ""
+ },
+ {
+  "id": "syn_003630",
+  "gate_fired": false,
+  "best_cos": 0.592,
+  "n_chunks": 0,
+  "context": ""
+ },
+ {
+  "id": "syn_003632",
+  "gate_fired": false,
+  "best_cos": 0.451,
+  "n_chunks": 0,
+  "context": ""
+ },
+ {
+  "id": "syn_003653",
+  "gate_fired": false,
+  "best_cos": 0.519,
+  "n_chunks": 0,
+  "context": ""
+ },
+ {
+  "id": "syn_003658",
+  "gate_fired": false,
+  "best_cos": 0.4,
+  "n_chunks": 0,
+  "context": ""
+ },
+ {
+  "id": "syn_003683",
+  "gate_fired": false,
+  "best_cos": 0.584,
+  "n_chunks": 0,
+  "context": ""
+ },
+ {
+  "id": "syn_003704",
+  "gate_fired": true,
+  "best_cos": 0.639,
+  "n_chunks": 1,
+  "context": "[1] (another caregiver's experience) I am part of a caregiving organisation since I was 10. In there we had a companion group — caregivers of our own age in a similar situation. That's the support I've had."
+ },
+ {
+  "id": "syn_003718",
+  "gate_fired": true,
+  "best_cos": 0.775,
+  "n_chunks": 2,
+  "context": "[1] (another caregiver's experience) I am part of a caregiving organisation since I was 10. In there we had a companion group — caregivers of our own age in a similar situation. That's the support I've had.\n\n[2] (another caregiver's experience) Yes, I think more contact with fellow informal caregivers would be good. They already exist of course. You can understand each other a bit — but like someone who has MS and with whom I've dealt with for 21 years, that is different from other diseases. Experiences can be very different from each other."
+ },
+ {
+  "id": "syn_003728",
+  "gate_fired": false,
+  "best_cos": 0.45,
+  "n_chunks": 0,
+  "context": ""
+ },
+ {
+  "id": "syn_003742",
+  "gate_fired": false,
+  "best_cos": 0.285,
+  "n_chunks": 0,
+  "context": ""
+ },
+ {
+  "id": "syn_003746",
+  "gate_fired": false,
+  "best_cos": 0.472,
+  "n_chunks": 0,
+  "context": ""
+ },
+ {
+  "id": "syn_003759",
+  "gate_fired": false,
+  "best_cos": 0.386,
+  "n_chunks": 0,
+  "context": ""
+ },
+ {
+  "id": "syn_003791",
+  "gate_fired": false,
+  "best_cos": 0.593,
+  "n_chunks": 0,
+  "context": ""
+ },
+ {
+  "id": "syn_003797",
+  "gate_fired": false,
+  "best_cos": 0.51,
+  "n_chunks": 0,
+  "context": ""
+ },
+ {
+  "id": "syn_003839",
+  "gate_fired": false,
+  "best_cos": 0.46,
+  "n_chunks": 0,
+  "context": ""
+ },
+ {
+  "id": "syn_003859",
+  "gate_fired": false,
+  "best_cos": 0.194,
+  "n_chunks": 0,
+  "context": ""
+ },
+ {
+  "id": "syn_003861",
+  "gate_fired": false,
+  "best_cos": 0.205,
+  "n_chunks": 0,
+  "context": ""
+ },
+ {
+  "id": "syn_003903",
+  "gate_fired": true,
+  "best_cos": 0.632,
+  "n_chunks": 1,
+  "context": "[1] (another caregiver's experience) I am part of a caregiving organisation since I was 10. In there we had a companion group — caregivers of our own age in a similar situation. That's the support I've had."
+ },
+ {
+  "id": "syn_003919",
+  "gate_fired": true,
+  "best_cos": 0.629,
+  "n_chunks": 1,
+  "context": "[1] (another caregiver's experience) I am part of a caregiving organisation since I was 10. In there we had a companion group — caregivers of our own age in a similar situation. That's the support I've had."
+ },
+ {
+  "id": "syn_003921",
+  "gate_fired": false,
+  "best_cos": 0.363,
+  "n_chunks": 0,
+  "context": ""
+ },
+ {
+  "id": "syn_003972",
+  "gate_fired": false,
+  "best_cos": 0.383,
+  "n_chunks": 0,
+  "context": ""
+ },
+ {
+  "id": "syn_003976",
+  "gate_fired": false,
+  "best_cos": 0.416,
+  "n_chunks": 0,
+  "context": ""
+ },
+ {
+  "id": "syn_003994",
+  "gate_fired": false,
+  "best_cos": 0.436,
+  "n_chunks": 0,
+  "context": ""
+ },
+ {
+  "id": "syn_003999",
+  "gate_fired": false,
+  "best_cos": 0.432,
+  "n_chunks": 0,
+  "context": ""
+ },
+ {
+  "id": "syn_004009",
+  "gate_fired": false,
+  "best_cos": 0.32,
+  "n_chunks": 0,
+  "context": ""
+ },
+ {
+  "id": "syn_004039",
+  "gate_fired": false,
+  "best_cos": -0.094,
+  "n_chunks": 0,
+  "context": ""
+ },
+ {
+  "id": "syn_004047",
+  "gate_fired": false,
+  "best_cos": 0.213,
+  "n_chunks": 0,
+  "context": ""
+ },
+ {
+  "id": "syn_004054",
+  "gate_fired": false,
+  "best_cos": 0.29,
+  "n_chunks": 0,
+  "context": ""
+ },
+ {
+  "id": "syn_004067",
+  "gate_fired": false,
+  "best_cos": 0.36,
+  "n_chunks": 0,
+  "context": ""
+ },
+ {
+  "id": "syn_004098",
+  "gate_fired": false,
+  "best_cos": 0.427,
+  "n_chunks": 0,
+  "context": ""
+ },
+ {
+  "id": "syn_004130",
+  "gate_fired": false,
+  "best_cos": 0.586,
+  "n_chunks": 0,
+  "context": ""
+ },
+ {
+  "id": "syn_004161",
+  "gate_fired": true,
+  "best_cos": 0.607,
+  "n_chunks": 1,
+  "context": "[1] (another caregiver's experience) Last year when COVID hit and everything was put online it was quite challenging to take care of him as well as trying to concentrate, so I ended up working a lot of the time, long hours into the evenings — around 2, 3, 4 in the morning — just to try to catch up with coursework. I suffered a lot and failed a lot of my courses last year because I couldn't really keep up with having to take care of him and doing coursework."
+ },
+ {
+  "id": "syn_004247",
+  "gate_fired": false,
+  "best_cos": 0.293,
+  "n_chunks": 0,
+  "context": ""
+ },
+ {
+  "id": "syn_004345",
+  "gate_fired": false,
+  "best_cos": 0.069,
+  "n_chunks": 0,
+  "context": ""
+ },
+ {
+  "id": "syn_004353",
+  "gate_fired": false,
+  "best_cos": 0.47,
+  "n_chunks": 0,
+  "context": ""
+ },
+ {
+  "id": "syn_004388",
+  "gate_fired": false,
+  "best_cos": 0.233,
+  "n_chunks": 0,
+  "context": ""
+ },
+ {
+  "id": "syn_004402",
+  "gate_fired": false,
+  "best_cos": 0.475,
+  "n_chunks": 0,
+  "context": ""
+ },
+ {
+  "id": "syn_004414",
+  "gate_fired": false,
+  "best_cos": 0.491,
+  "n_chunks": 0,
+  "context": ""
+ },
+ {
+  "id": "syn_004417",
+  "gate_fired": true,
+  "best_cos": 0.69,
+  "n_chunks": 1,
+  "context": "[1] (another caregiver's experience) Every year we go to MS children's camps, arranged by the UMCG. You basically go with all other children who also have a parent or family member with MS. It's a weekend of fun activities, and it's free of charge — so those with low income can also go. Parents can send their child there so they can get in contact with fellow sufferers, children in similar situations. And so they can be away from home for a weekend."
+ },
+ {
+  "id": "syn_004442",
+  "gate_fired": false,
+  "best_cos": 0.502,
+  "n_chunks": 0,
+  "context": ""
+ },
+ {
+  "id": "syn_004464",
+  "gate_fired": false,
+  "best_cos": 0.483,
+  "n_chunks": 0,
+  "context": ""
+ },
+ {
+  "id": "syn_004468",
+  "gate_fired": false,
+  "best_cos": 0.261,
+  "n_chunks": 0,
+  "context": ""
+ },
+ {
+  "id": "syn_004482",
+  "gate_fired": false,
+  "best_cos": 0.375,
+  "n_chunks": 0,
+  "context": ""
+ },
+ {
+  "id": "syn_004510",
+  "gate_fired": true,
+  "best_cos": 0.84,
+  "n_chunks": 2,
+  "context": "[1] (another caregiver's experience) Yes, I think more contact with fellow informal caregivers would be good. They already exist of course. You can understand each other a bit — but like someone who has MS and with whom I've dealt with for 21 years, that is different from other diseases. Experiences can be very different from each other.\n\n[2] (another caregiver's experience) I am part of a caregiving organisation since I was 10. In there we had a companion group — caregivers of our own age in a similar situation. That's the support I've had."
+ },
+ {
+  "id": "syn_004524",
+  "gate_fired": false,
+  "best_cos": 0.487,
+  "n_chunks": 0,
+  "context": ""
+ },
+ {
+  "id": "syn_004571",
+  "gate_fired": false,
+  "best_cos": 0.262,
+  "n_chunks": 0,
+  "context": ""
+ },
+ {
+  "id": "syn_004584",
+  "gate_fired": false,
+  "best_cos": 0.467,
+  "n_chunks": 0,
+  "context": ""
+ },
+ {
+  "id": "syn_004591",
+  "gate_fired": false,
+  "best_cos": 0.175,
+  "n_chunks": 0,
+  "context": ""
+ },
+ {
+  "id": "syn_004604",
+  "gate_fired": false,
+  "best_cos": 0.496,
+  "n_chunks": 0,
+  "context": ""
+ },
+ {
+  "id": "syn_004608",
+  "gate_fired": false,
+  "best_cos": 0.329,
+  "n_chunks": 0,
+  "context": ""
+ },
+ {
+  "id": "syn_004617",
+  "gate_fired": false,
+  "best_cos": 0.353,
+  "n_chunks": 0,
+  "context": ""
+ },
+ {
+  "id": "syn_004633",
+  "gate_fired": true,
+  "best_cos": 0.608,
+  "n_chunks": 1,
+  "context": "[1] (another caregiver's experience) Last year when COVID hit and everything was put online it was quite challenging to take care of him as well as trying to concentrate, so I ended up working a lot of the time, long hours into the evenings — around 2, 3, 4 in the morning — just to try to catch up with coursework. I suffered a lot and failed a lot of my courses last year because I couldn't really keep up with having to take care of him and doing coursework."
+ },
+ {
+  "id": "syn_004636",
+  "gate_fired": false,
+  "best_cos": 0.394,
+  "n_chunks": 0,
+  "context": ""
+ },
+ {
+  "id": "syn_004638",
+  "gate_fired": false,
+  "best_cos": 0.413,
+  "n_chunks": 0,
+  "context": ""
+ },
+ {
+  "id": "syn_004640",
+  "gate_fired": false,
+  "best_cos": 0.371,
+  "n_chunks": 0,
+  "context": ""
+ },
+ {
+  "id": "syn_004666",
+  "gate_fired": false,
+  "best_cos": 0.394,
+  "n_chunks": 0,
+  "context": ""
+ },
+ {
+  "id": "syn_004676",
+  "gate_fired": false,
+  "best_cos": 0.322,
+  "n_chunks": 0,
+  "context": ""
+ },
+ {
+  "id": "syn_004688",
+  "gate_fired": false,
+  "best_cos": 0.361,
+  "n_chunks": 0,
+  "context": ""
+ },
+ {
+  "id": "syn_004699",
+  "gate_fired": false,
+  "best_cos": 0.55,
+  "n_chunks": 0,
+  "context": ""
+ },
+ {
+  "id": "syn_004705",
+  "gate_fired": true,
+  "best_cos": 0.77,
+  "n_chunks": 1,
+  "context": "[1] (another caregiver's experience) I am part of a caregiving organisation since I was 10. In there we had a companion group — caregivers of our own age in a similar situation. That's the support I've had."
+ },
+ {
+  "id": "syn_004729",
+  "gate_fired": false,
+  "best_cos": 0.477,
+  "n_chunks": 0,
+  "context": ""
+ },
+ {
+  "id": "syn_004751",
+  "gate_fired": false,
+  "best_cos": 0.445,
+  "n_chunks": 0,
+  "context": ""
+ },
+ {
+  "id": "syn_004777",
+  "gate_fired": true,
+  "best_cos": 0.669,
+  "n_chunks": 1,
+  "context": "[1] (another caregiver's experience) Last year when COVID hit and everything was put online it was quite challenging to take care of him as well as trying to concentrate, so I ended up working a lot of the time, long hours into the evenings — around 2, 3, 4 in the morning — just to try to catch up with coursework. I suffered a lot and failed a lot of my courses last year because I couldn't really keep up with having to take care of him and doing coursework."
+ },
+ {
+  "id": "syn_004786",
+  "gate_fired": false,
+  "best_cos": 0.546,
+  "n_chunks": 0,
+  "context": ""
+ },
+ {
+  "id": "syn_004791",
+  "gate_fired": false,
+  "best_cos": 0.352,
+  "n_chunks": 0,
+  "context": ""
+ },
+ {
+  "id": "syn_004794",
+  "gate_fired": false,
+  "best_cos": 0.575,
+  "n_chunks": 0,
+  "context": ""
+ },
+ {
+  "id": "syn_004804",
+  "gate_fired": false,
+  "best_cos": 0.401,
+  "n_chunks": 0,
+  "context": ""
+ },
+ {
+  "id": "syn_004807",
+  "gate_fired": false,
+  "best_cos": 0.325,
+  "n_chunks": 0,
+  "context": ""
+ },
+ {
+  "id": "syn_004808",
+  "gate_fired": false,
+  "best_cos": 0.523,
+  "n_chunks": 0,
+  "context": ""
+ },
+ {
+  "id": "syn_004823",
+  "gate_fired": false,
+  "best_cos": 0.523,
+  "n_chunks": 0,
+  "context": ""
+ },
+ {
+  "id": "syn_004854",
+  "gate_fired": false,
+  "best_cos": 0.331,
+  "n_chunks": 0,
+  "context": ""
+ },
+ {
+  "id": "syn_004891",
+  "gate_fired": false,
+  "best_cos": 0.367,
+  "n_chunks": 0,
+  "context": ""
+ },
+ {
+  "id": "syn_004894",
+  "gate_fired": false,
+  "best_cos": 0.233,
+  "n_chunks": 0,
+  "context": ""
+ },
+ {
+  "id": "syn_004906",
+  "gate_fired": false,
+  "best_cos": 0.521,
+  "n_chunks": 0,
+  "context": ""
+ },
+ {
+  "id": "syn_004918",
+  "gate_fired": false,
+  "best_cos": 0.514,
+  "n_chunks": 0,
+  "context": ""
+ },
+ {
+  "id": "syn_004940",
+  "gate_fired": false,
+  "best_cos": 0.431,
+  "n_chunks": 0,
+  "context": ""
+ },
+ {
+  "id": "syn_004943",
+  "gate_fired": false,
+  "best_cos": 0.453,
+  "n_chunks": 0,
+  "context": ""
+ },
+ {
+  "id": "syn_004944",
+  "gate_fired": false,
+  "best_cos": 0.41,
+  "n_chunks": 0,
+  "context": ""
+ },
+ {
+  "id": "syn_004955",
+  "gate_fired": false,
+  "best_cos": 0.415,
+  "n_chunks": 0,
+  "context": ""
+ },
+ {
+  "id": "syn_004963",
+  "gate_fired": false,
+  "best_cos": 0.53,
+  "n_chunks": 0,
+  "context": ""
+ },
+ {
+  "id": "syn_005001",
+  "gate_fired": false,
+  "best_cos": 0.549,
+  "n_chunks": 0,
+  "context": ""
+ },
+ {
+  "id": "syn_005011",
+  "gate_fired": false,
+  "best_cos": 0.341,
+  "n_chunks": 0,
+  "context": ""
+ },
+ {
+  "id": "syn_005036",
+  "gate_fired": false,
+  "best_cos": 0.489,
+  "n_chunks": 0,
+  "context": ""
+ },
+ {
+  "id": "syn_005039",
+  "gate_fired": true,
+  "best_cos": 0.602,
+  "n_chunks": 1,
+  "context": "[1] (another caregiver's experience) I find it difficult to keep up with my studies and social life. He becomes suicidal at times and I have to constantly be there for him, as I am the only one who takes care of him."
+ },
+ {
+  "id": "syn_005041",
+  "gate_fired": false,
+  "best_cos": 0.454,
+  "n_chunks": 0,
+  "context": ""
+ },
+ {
+  "id": "syn_005045",
+  "gate_fired": false,
+  "best_cos": 0.456,
+  "n_chunks": 0,
+  "context": ""
+ },
+ {
+  "id": "syn_005050",
+  "gate_fired": false,
+  "best_cos": 0.474,
+  "n_chunks": 0,
+  "context": ""
+ },
+ {
+  "id": "syn_005075",
+  "gate_fired": false,
+  "best_cos": 0.35,
+  "n_chunks": 0,
+  "context": ""
+ },
+ {
+  "id": "syn_005102",
+  "gate_fired": false,
+  "best_cos": 0.457,
+  "n_chunks": 0,
+  "context": ""
+ },
+ {
+  "id": "syn_005134",
+  "gate_fired": false,
+  "best_cos": 0.215,
+  "n_chunks": 0,
+  "context": ""
+ },
+ {
+  "id": "syn_005148",
+  "gate_fired": false,
+  "best_cos": 0.299,
+  "n_chunks": 0,
+  "context": ""
+ },
+ {
+  "id": "syn_005178",
+  "gate_fired": true,
+  "best_cos": 0.719,
+  "n_chunks": 2,
+  "context": "[1] (another caregiver's experience) I think I would use online support much less because I need to trust someone a bit before actually talking about it. And I already know the caregiving consultant who is coaching me, for 8 years or something — that person really knows me. That level of trust is something you can't build online quickly.\n\n[2] (another caregiver's experience) I am part of a caregiving organisation since I was 10. In there we had a companion group — caregivers of our own age in a similar situation. That's the support I've had."
+ },
+ {
+  "id": "syn_005206",
+  "gate_fired": false,
+  "best_cos": 0.539,
+  "n_chunks": 0,
+  "context": ""
+ },
+ {
+  "id": "syn_005216",
+  "gate_fired": true,
+  "best_cos": 0.621,
+  "n_chunks": 1,
+  "context": "[1] (another caregiver's experience) I am part of a caregiving organisation since I was 10. In there we had a companion group — caregivers of our own age in a similar situation. That's the support I've had."
+ },
+ {
+  "id": "syn_005223",
+  "gate_fired": false,
+  "best_cos": 0.321,
+  "n_chunks": 0,
+  "context": ""
+ },
+ {
+  "id": "syn_005226",
+  "gate_fired": false,
+  "best_cos": 0.326,
+  "n_chunks": 0,
+  "context": ""
+ },
+ {
+  "id": "syn_005257",
+  "gate_fired": false,
+  "best_cos": 0.102,
+  "n_chunks": 0,
+  "context": ""
+ },
+ {
+  "id": "syn_005278",
+  "gate_fired": false,
+  "best_cos": 0.314,
+  "n_chunks": 0,
+  "context": ""
+ },
+ {
+  "id": "syn_005294",
+  "gate_fired": false,
+  "best_cos": 0.282,
+  "n_chunks": 0,
+  "context": ""
+ },
+ {
+  "id": "syn_005295",
+  "gate_fired": false,
+  "best_cos": 0.408,
+  "n_chunks": 0,
+  "context": ""
+ },
+ {
+  "id": "syn_005341",
+  "gate_fired": false,
+  "best_cos": 0.11,
+  "n_chunks": 0,
+  "context": ""
+ },
+ {
+  "id": "syn_005364",
+  "gate_fired": false,
+  "best_cos": 0.361,
+  "n_chunks": 0,
+  "context": ""
+ },
+ {
+  "id": "syn_005371",
+  "gate_fired": false,
+  "best_cos": 0.522,
+  "n_chunks": 0,
+  "context": ""
+ },
+ {
+  "id": "syn_005395",
+  "gate_fired": false,
+  "best_cos": 0.319,
+  "n_chunks": 0,
+  "context": ""
+ },
+ {
+  "id": "syn_005425",
+  "gate_fired": false,
+  "best_cos": 0.594,
+  "n_chunks": 0,
+  "context": ""
+ },
+ {
+  "id": "syn_005453",
+  "gate_fired": false,
+  "best_cos": 0.381,
+  "n_chunks": 0,
+  "context": ""
+ },
+ {
+  "id": "syn_005463",
+  "gate_fired": false,
+  "best_cos": 0.53,
+  "n_chunks": 0,
+  "context": ""
+ },
+ {
+  "id": "syn_005484",
+  "gate_fired": false,
+  "best_cos": 0.585,
+  "n_chunks": 0,
+  "context": ""
+ },
+ {
+  "id": "syn_005489",
+  "gate_fired": false,
+  "best_cos": 0.309,
+  "n_chunks": 0,
+  "context": ""
+ },
+ {
+  "id": "syn_005509",
+  "gate_fired": false,
+  "best_cos": 0.457,
+  "n_chunks": 0,
+  "context": ""
+ },
+ {
+  "id": "syn_005521",
+  "gate_fired": false,
+  "best_cos": 0.313,
+  "n_chunks": 0,
+  "context": ""
+ },
+ {
+  "id": "syn_005524",
+  "gate_fired": false,
+  "best_cos": 0.359,
+  "n_chunks": 0,
+  "context": ""
+ },
+ {
+  "id": "syn_005574",
+  "gate_fired": false,
+  "best_cos": 0.442,
+  "n_chunks": 0,
+  "context": ""
+ },
+ {
+  "id": "syn_005578",
+  "gate_fired": false,
+  "best_cos": 0.532,
+  "n_chunks": 0,
+  "context": ""
+ },
+ {
+  "id": "syn_005583",
+  "gate_fired": false,
+  "best_cos": 0.505,
+  "n_chunks": 0,
+  "context": ""
+ },
+ {
+  "id": "syn_005622",
+  "gate_fired": false,
+  "best_cos": 0.178,
+  "n_chunks": 0,
+  "context": ""
+ },
+ {
+  "id": "syn_005640",
+  "gate_fired": false,
+  "best_cos": 0.529,
+  "n_chunks": 0,
+  "context": ""
+ },
+ {
+  "id": "syn_005657",
+  "gate_fired": true,
+  "best_cos": 0.745,
+  "n_chunks": 1,
+  "context": "[1] (another caregiver's experience) I am part of a caregiving organisation since I was 10. In there we had a companion group — caregivers of our own age in a similar situation. That's the support I've had."
+ },
+ {
+  "id": "syn_005715",
+  "gate_fired": false,
+  "best_cos": 0.428,
+  "n_chunks": 0,
+  "context": ""
+ },
+ {
+  "id": "syn_005728",
+  "gate_fired": false,
+  "best_cos": 0.557,
+  "n_chunks": 0,
+  "context": ""
+ },
+ {
+  "id": "syn_005764",
+  "gate_fired": true,
+  "best_cos": 0.857,
+  "n_chunks": 3,
+  "context": "[1] (another caregiver's experience) I am part of a caregiving organisation since I was 10. In there we had a companion group — caregivers of our own age in a similar situation. That's the support I've had.\n\n[2] (another caregiver's experience) Yes, I think more contact with fellow informal caregivers would be good. They already exist of course. You can understand each other a bit — but like someone who has MS and with whom I've dealt with for 21 years, that is different from other diseases. Experiences can be very different from each other.\n\n[3] (guide: Balancing caregiving and career: tips for starting your new job strong (Bright Horizons)) other young carers is a great way to make new friends, have some fun and share some of your worries with people in similar situations to your own. Young carers projects can help you have a break from home, plus meeting other young carers can help you to relax. Young carers projects may offer evening clubs, weekends away, days out and even holidays, as well as friendly advice and information for you and for your family. The Children's Society can help you find a young carer group in your local area. They also run the Young Carers Festival. Sense run online and in-person activities for young carers under 18. Help from social workers A social worker from your local council has to visit, if you or your parents request this. Social workers may be asked to help a young carer's family if there are problems that the family members are finding hard to sort out on their own."
+ },
+ {
+  "id": "syn_005832",
+  "gate_fired": false,
+  "best_cos": 0.224,
+  "n_chunks": 0,
+  "context": ""
+ },
+ {
+  "id": "syn_005841",
+  "gate_fired": false,
+  "best_cos": 0.178,
+  "n_chunks": 0,
+  "context": ""
+ },
+ {
+  "id": "syn_005862",
+  "gate_fired": false,
+  "best_cos": 0.384,
+  "n_chunks": 0,
+  "context": ""
+ },
+ {
+  "id": "syn_005902",
+  "gate_fired": false,
+  "best_cos": 0.308,
+  "n_chunks": 0,
+  "context": ""
+ },
+ {
+  "id": "syn_005910",
+  "gate_fired": false,
+  "best_cos": 0.587,
+  "n_chunks": 0,
+  "context": ""
+ },
+ {
+  "id": "syn_005939",
+  "gate_fired": true,
+  "best_cos": 0.677,
+  "n_chunks": 1,
+  "context": "[1] (another caregiver's experience) I think I would use online support much less because I need to trust someone a bit before actually talking about it. And I already know the caregiving consultant who is coaching me, for 8 years or something — that person really knows me. That level of trust is something you can't build online quickly."
+ },
+ {
+  "id": "syn_005967",
+  "gate_fired": false,
+  "best_cos": 0.436,
+  "n_chunks": 0,
+  "context": ""
+ },
+ {
+  "id": "syn_006053",
+  "gate_fired": false,
+  "best_cos": 0.189,
+  "n_chunks": 0,
+  "context": ""
+ },
+ {
+  "id": "syn_006098",
+  "gate_fired": false,
+  "best_cos": 0.108,
+  "n_chunks": 0,
+  "context": ""
+ },
+ {
+  "id": "syn_006100",
+  "gate_fired": false,
+  "best_cos": 0.461,
+  "n_chunks": 0,
+  "context": ""
+ },
+ {
+  "id": "syn_006139",
+  "gate_fired": false,
+  "best_cos": 0.188,
+  "n_chunks": 0,
+  "context": ""
+ },
+ {
+  "id": "syn_006154",
+  "gate_fired": true,
+  "best_cos": 0.665,
+  "n_chunks": 1,
+  "context": "[1] (another caregiver's experience) I am part of a caregiving organisation since I was 10. In there we had a companion group — caregivers of our own age in a similar situation. That's the support I've had."
+ },
+ {
+  "id": "syn_006173",
+  "gate_fired": false,
+  "best_cos": 0.364,
+  "n_chunks": 0,
+  "context": ""
+ },
+ {
+  "id": "syn_006183",
+  "gate_fired": false,
+  "best_cos": 0.461,
+  "n_chunks": 0,
+  "context": ""
+ },
+ {
+  "id": "syn_006186",
+  "gate_fired": false,
+  "best_cos": 0.519,
+  "n_chunks": 0,
+  "context": ""
+ },
+ {
+  "id": "syn_006201",
+  "gate_fired": true,
+  "best_cos": 0.75,
+  "n_chunks": 2,
+  "context": "[1] (another caregiver's experience) Yes, I think more contact with fellow informal caregivers would be good. They already exist of course. You can understand each other a bit — but like someone who has MS and with whom I've dealt with for 21 years, that is different from other diseases. Experiences can be very different from each other.\n\n[2] (another caregiver's experience) I am part of a caregiving organisation since I was 10. In there we had a companion group — caregivers of our own age in a similar situation. That's the support I've had."
+ },
+ {
+  "id": "syn_006207",
+  "gate_fired": false,
+  "best_cos": 0.452,
+  "n_chunks": 0,
+  "context": ""
+ },
+ {
+  "id": "syn_006210",
+  "gate_fired": true,
+  "best_cos": 0.628,
+  "n_chunks": 1,
+  "context": "[1] (another caregiver's experience) I am part of a caregiving organisation since I was 10. In there we had a companion group — caregivers of our own age in a similar situation. That's the support I've had."
+ },
+ {
+  "id": "syn_006256",
+  "gate_fired": true,
+  "best_cos": 0.712,
+  "n_chunks": 3,
+  "context": "[1] (another caregiver's experience) I am part of a caregiving organisation since I was 10. In there we had a companion group — caregivers of our own age in a similar situation. That's the support I've had.\n\n[2] (another caregiver's experience) The caretaking itself is not that big of a challenge, because you do it bit by bit. The worrying — I struggled with that a lot, and I notice it's getting worse during corona times. I had intensive support for it. I am part of a caregiving organisation since I was 10, so in there we had a companion group, and from there I got referred because I just worry very intensely. Now, in corona times, I contacted the caregiving fulcrum — sometimes it's nice to tell your story without people judging or without people being in the same situation.\n\n[3] (guide: Help for young carers (NHS)) Some young carers find it easier to talk about the situation if they keep a diary or a list of all the jobs and tasks they have to do.\nIf you're having trouble with school or homework, your teachers may offer:\nextra time for school work when you have to give more help to the person you care for\nto talk to you privately about your home life\nSupport at school\nThere are lots of ways your school can help. You could be allowed to use a phone during breaks and lunchtime so you can check on the person you're looking after.\nThe school could also put you in touch with your local young carers service, or get a young carers worker to talk to you.\nSome schools run lunchtime groups or homework support groups for young carers. If your school does not do this, you could suggest it to your teachers."
+ },
+ {
+  "id": "syn_006259",
+  "gate_fired": false,
+  "best_cos": 0.555,
+  "n_chunks": 0,
+  "context": ""
+ },
+ {
+  "id": "syn_006260",
+  "gate_fired": false,
+  "best_cos": 0.488,
+  "n_chunks": 0,
+  "context": ""
+ },
+ {
+  "id": "syn_006304",
+  "gate_fired": false,
+  "best_cos": 0.543,
+  "n_chunks": 0,
+  "context": ""
+ },
+ {
+  "id": "syn_006310",
+  "gate_fired": false,
+  "best_cos": 0.405,
+  "n_chunks": 0,
+  "context": ""
+ },
+ {
+  "id": "syn_006313",
+  "gate_fired": true,
+  "best_cos": 0.684,
+  "n_chunks": 1,
+  "context": "[1] (another caregiver's experience) I am part of a caregiving organisation since I was 10. In there we had a companion group — caregivers of our own age in a similar situation. That's the support I've had."
+ },
+ {
+  "id": "syn_006338",
+  "gate_fired": false,
+  "best_cos": 0.329,
+  "n_chunks": 0,
+  "context": ""
+ },
+ {
+  "id": "syn_006363",
+  "gate_fired": false,
+  "best_cos": 0.552,
+  "n_chunks": 0,
+  "context": ""
+ },
+ {
+  "id": "syn_006390",
+  "gate_fired": false,
+  "best_cos": 0.383,
+  "n_chunks": 0,
+  "context": ""
+ },
+ {
+  "id": "syn_006410",
+  "gate_fired": true,
+  "best_cos": 0.733,
+  "n_chunks": 1,
+  "context": "[1] (another caregiver's experience) I am part of a caregiving organisation since I was 10. In there we had a companion group — caregivers of our own age in a similar situation. That's the support I've had."
+ },
+ {
+  "id": "syn_006413",
+  "gate_fired": false,
+  "best_cos": 0.435,
+  "n_chunks": 0,
+  "context": ""
+ },
+ {
+  "id": "syn_006421",
+  "gate_fired": false,
+  "best_cos": 0.572,
+  "n_chunks": 0,
+  "context": ""
+ },
+ {
+  "id": "syn_006440",
+  "gate_fired": true,
+  "best_cos": 0.796,
+  "n_chunks": 1,
+  "context": "[1] (another caregiver's experience) I am part of a caregiving organisation since I was 10. In there we had a companion group — caregivers of our own age in a similar situation. That's the support I've had."
+ },
+ {
+  "id": "syn_006470",
+  "gate_fired": false,
+  "best_cos": 0.452,
+  "n_chunks": 0,
+  "context": ""
+ },
+ {
+  "id": "syn_006503",
+  "gate_fired": false,
+  "best_cos": 0.54,
+  "n_chunks": 0,
+  "context": ""
+ },
+ {
+  "id": "syn_006508",
+  "gate_fired": false,
+  "best_cos": 0.237,
+  "n_chunks": 0,
+  "context": ""
+ },
+ {
+  "id": "syn_006510",
+  "gate_fired": false,
+  "best_cos": 0.368,
+  "n_chunks": 0,
+  "context": ""
+ },
+ {
+  "id": "syn_006518",
+  "gate_fired": false,
+  "best_cos": 0.392,
+  "n_chunks": 0,
+  "context": ""
+ },
+ {
+  "id": "syn_006521",
+  "gate_fired": false,
+  "best_cos": 0.277,
+  "n_chunks": 0,
+  "context": ""
+ },
+ {
+  "id": "syn_006539",
+  "gate_fired": false,
+  "best_cos": 0.483,
+  "n_chunks": 0,
+  "context": ""
+ },
+ {
+  "id": "syn_006568",
+  "gate_fired": false,
+  "best_cos": 0.525,
+  "n_chunks": 0,
+  "context": ""
+ },
+ {
+  "id": "syn_006607",
+  "gate_fired": false,
+  "best_cos": 0.488,
+  "n_chunks": 0,
+  "context": ""
+ },
+ {
+  "id": "syn_006625",
+  "gate_fired": false,
+  "best_cos": 0.483,
+  "n_chunks": 0,
+  "context": ""
+ },
+ {
+  "id": "syn_006694",
+  "gate_fired": true,
+  "best_cos": 0.686,
+  "n_chunks": 3,
+  "context": "[1] (another caregiver's experience) That would be perfect, especially since I now live in another country. Getting support online — especially information — is what is most needed, I think. But in terms of formal actual support, I think it wouldn't be as useful, because the reason why my support works with her is because there's a really close relationship between us. Information about how I should act or how I should talk would be a bit more useful.\n\n[2] (another caregiver's experience) I think I would use online support much less because I need to trust someone a bit before actually talking about it. And I already know the caregiving consultant who is coaching me, for 8 years or something — that person really knows me. That level of trust is something you can't build online quickly.\n\n[3] (another caregiver's experience) It depends on what it is — whether it is practical or emotional support. And also whether there are strangers in charge of it or people I know, or whether I can see those people in real life or only online. I do not feel the need to have more things online just because everything is already online."
+ },
+ {
+  "id": "syn_006706",
+  "gate_fired": true,
+  "best_cos": 0.657,
+  "n_chunks": 2,
+  "context": "[1] (another caregiver's experience) Yes, I think more contact with fellow informal caregivers would be good. They already exist of course. You can understand each other a bit — but like someone who has MS and with whom I've dealt with for 21 years, that is different from other diseases. Experiences can be very different from each other.\n\n[2] (another caregiver's experience) Every year we go to MS children's camps, arranged by the UMCG. You basically go with all other children who also have a parent or family member with MS. It's a weekend of fun activities, and it's free of charge — so those with low income can also go. Parents can send their child there so they can get in contact with fellow sufferers, children in similar situations. And so they can be away from home for a weekend."
+ },
+ {
+  "id": "syn_006712",
+  "gate_fired": false,
+  "best_cos": 0.307,
+  "n_chunks": 0,
+  "context": ""
+ },
+ {
+  "id": "syn_006725",
+  "gate_fired": false,
+  "best_cos": 0.359,
+  "n_chunks": 0,
+  "context": ""
+ },
+ {
+  "id": "syn_006733",
+  "gate_fired": false,
+  "best_cos": 0.4,
+  "n_chunks": 0,
+  "context": ""
+ },
+ {
+  "id": "syn_006777",
+  "gate_fired": false,
+  "best_cos": 0.529,
+  "n_chunks": 0,
+  "context": ""
+ },
+ {
+  "id": "syn_006789",
+  "gate_fired": false,
+  "best_cos": 0.144,
+  "n_chunks": 0,
+  "context": ""
+ },
+ {
+  "id": "syn_006810",
+  "gate_fired": false,
+  "best_cos": 0.436,
+  "n_chunks": 0,
+  "context": ""
+ },
+ {
+  "id": "syn_006837",
+  "gate_fired": false,
+  "best_cos": 0.385,
+  "n_chunks": 0,
+  "context": ""
+ },
+ {
+  "id": "syn_006866",
+  "gate_fired": false,
+  "best_cos": 0.365,
+  "n_chunks": 0,
+  "context": ""
+ },
+ {
+  "id": "syn_006887",
+  "gate_fired": false,
+  "best_cos": 0.273,
+  "n_chunks": 0,
+  "context": ""
+ },
+ {
+  "id": "syn_006893",
+  "gate_fired": false,
+  "best_cos": 0.308,
+  "n_chunks": 0,
+  "context": ""
+ },
+ {
+  "id": "syn_006966",
+  "gate_fired": false,
+  "best_cos": 0.266,
+  "n_chunks": 0,
+  "context": ""
+ },
+ {
+  "id": "syn_007031",
+  "gate_fired": false,
+  "best_cos": 0.534,
+  "n_chunks": 0,
+  "context": ""
+ },
+ {
+  "id": "syn_007044",
+  "gate_fired": false,
+  "best_cos": 0.285,
+  "n_chunks": 0,
+  "context": ""
+ },
+ {
+  "id": "syn_007061",
+  "gate_fired": false,
+  "best_cos": 0.587,
+  "n_chunks": 0,
+  "context": ""
+ },
+ {
+  "id": "syn_007078",
+  "gate_fired": false,
+  "best_cos": 0.434,
+  "n_chunks": 0,
+  "context": ""
+ },
+ {
+  "id": "syn_007086",
+  "gate_fired": false,
+  "best_cos": 0.332,
+  "n_chunks": 0,
+  "context": ""
+ },
+ {
+  "id": "syn_007093",
+  "gate_fired": false,
+  "best_cos": 0.368,
+  "n_chunks": 0,
+  "context": ""
+ },
+ {
+  "id": "syn_007097",
+  "gate_fired": false,
+  "best_cos": 0.408,
+  "n_chunks": 0,
+  "context": ""
+ },
+ {
+  "id": "syn_007107",
+  "gate_fired": false,
+  "best_cos": 0.362,
+  "n_chunks": 0,
+  "context": ""
+ },
+ {
+  "id": "syn_007152",
+  "gate_fired": true,
+  "best_cos": 0.629,
+  "n_chunks": 1,
+  "context": "[1] (guide: Find a fulfilling career that does good (80,000 Hours)) courses from 20+ other teachers, which you can try to see which \nstyle makes you feel best (e.g. I (Benjamin) found Loch Kelly’s \ncourses especially helpful). The book Mindfulness by Penman \nand Williams, is also a great introduction, and is organised into an \neight-week course.271 The course is similar to “mindfulness-based \nstress reduction” which is a widely available evidence-based weekly \nprogramme, which you might be able to find on offer near you.\n6. Do something kind each day , like donating to charity, giving \nsomeone a compliment, or helping someone at work.\n7. Practise active constructive responding to celebrate successes \nwith others \n(gostrengths.com/what-is-active-and-constructive-responding).\n8. Craft your job. In chapter 1 we explored the ingredients of a \nsatisfying job. Often it’s possible to adapt your job so that it involves \nmore of the satisfying ingredients, like ‘flow’ states, and less of what"
+ },
+ {
+  "id": "syn_007163",
+  "gate_fired": true,
+  "best_cos": 0.722,
+  "n_chunks": 1,
+  "context": "[1] (another caregiver's experience) I am part of a caregiving organisation since I was 10. In there we had a companion group — caregivers of our own age in a similar situation. That's the support I've had."
+ },
+ {
+  "id": "syn_007172",
+  "gate_fired": false,
+  "best_cos": 0.406,
+  "n_chunks": 0,
+  "context": ""
+ },
+ {
+  "id": "syn_007186",
+  "gate_fired": true,
+  "best_cos": 0.78,
+  "n_chunks": 1,
+  "context": "[1] (another caregiver's experience) I am part of a caregiving organisation since I was 10. In there we had a companion group — caregivers of our own age in a similar situation. That's the support I've had."
+ },
+ {
+  "id": "syn_007198",
+  "gate_fired": false,
+  "best_cos": 0.554,
+  "n_chunks": 0,
+  "context": ""
+ },
+ {
+  "id": "syn_007241",
+  "gate_fired": false,
+  "best_cos": 0.357,
+  "n_chunks": 0,
+  "context": ""
+ },
+ {
+  "id": "syn_007248",
+  "gate_fired": false,
+  "best_cos": 0.256,
+  "n_chunks": 0,
+  "context": ""
+ },
+ {
+  "id": "syn_007257",
+  "gate_fired": false,
+  "best_cos": 0.284,
+  "n_chunks": 0,
+  "context": ""
+ },
+ {
+  "id": "syn_007283",
+  "gate_fired": false,
+  "best_cos": 0.272,
+  "n_chunks": 0,
+  "context": ""
+ },
+ {
+  "id": "syn_007308",
+  "gate_fired": true,
+  "best_cos": 0.659,
+  "n_chunks": 3,
+  "context": "[1] (guide: Balancing caregiving and career: tips for starting your new job strong (Bright Horizons)) the two is so important. Try to avoid bringing stress from work into your caregiving role and vice versa by designating specific times for each responsibility. If you work from home, set up a dedicated workspace (even if it's just a corner in a room) and stick to your scheduled hours. Outside of that time, shift your focus to caregiving. It's also okay to say no. Protect your time by communicating limits with coworkers and family. \nCommunicate your needs. Being a caregiver is now part of your reality. While you don't need to disclose every detail, having open conversations early on will help set mutual expectations and foster a supportive work environment. \nHere are some key points to consider: \n• Discuss flexible work arrangements or support programs. • Set realistic expectations about your availability and potential time-off needs. • Be proactive in managing workload to prevent feeling overwhelmed. A simple conversation can go a long way in building trust. \nEmbrace your strengths.\n\n[2] (another caregiver's experience) I am part of a caregiving organisation since I was 10. In there we had a companion group — caregivers of our own age in a similar situation. That's the support I've had.\n\n[3] (guide: Balancing caregiving and career: tips for starting your new job strong (Bright Horizons)) Build a support network. As a young caregiver, you can feel isolated, making it even more important to establish a strong support system. Surround yourself with people you trust such as friends, family, coworkers, or elder care coaches who listen and support you. You might also find comfort in joining caregiver groups online or in your area to connect with others in similar situations. Resources like caregiver.org and usa.gov can help point you toward available programs in your state. You are not alone. Starting a new job while caregiving isn't easy, but with the right mindset and support, you can thrive. Keep showing up, ask for help, and be proud of your journey. Your Bright Horizons benefits include senior care support. Visit your Senior Care page for more details."
+ },
+ {
+  "id": "syn_007323",
+  "gate_fired": false,
+  "best_cos": 0.434,
+  "n_chunks": 0,
+  "context": ""
+ },
+ {
+  "id": "syn_007352",
+  "gate_fired": false,
+  "best_cos": 0.584,
+  "n_chunks": 0,
+  "context": ""
+ },
+ {
+  "id": "syn_007375",
+  "gate_fired": true,
+  "best_cos": 0.68,
+  "n_chunks": 2,
+  "context": "[1] (another caregiver's experience) It is hard to find a balance between how much time you spend on caregiving, how much time you spend on your study or sport or friends, because you can always do more to take care at home. Sometimes you need to finish a deadline but if something happens at home and I need to go home to take care of my youngest sister, you cannot do both and so I need to ask for a postponement — you end up in a vicious circle. I cannot study full time anymore. It takes up much time and it is emotionally draining. You constantly think about it in the back of your mind.\n\n[2] (guide: Help for young carers (NHS)) Some young carers find it easier to talk about the situation if they keep a diary or a list of all the jobs and tasks they have to do.\nIf you're having trouble with school or homework, your teachers may offer:\nextra time for school work when you have to give more help to the person you care for\nto talk to you privately about your home life\nSupport at school\nThere are lots of ways your school can help. You could be allowed to use a phone during breaks and lunchtime so you can check on the person you're looking after.\nThe school could also put you in touch with your local young carers service, or get a young carers worker to talk to you.\nSome schools run lunchtime groups or homework support groups for young carers. If your school does not do this, you could suggest it to your teachers."
+ },
+ {
+  "id": "syn_007390",
+  "gate_fired": false,
+  "best_cos": 0.468,
+  "n_chunks": 0,
+  "context": ""
+ },
+ {
+  "id": "syn_007408",
+  "gate_fired": false,
+  "best_cos": 0.386,
+  "n_chunks": 0,
+  "context": ""
+ },
+ {
+  "id": "syn_007417",
+  "gate_fired": true,
+  "best_cos": 0.665,
+  "n_chunks": 2,
+  "context": "[1] (another caregiver's experience) I am part of a caregiving organisation since I was 10. In there we had a companion group — caregivers of our own age in a similar situation. That's the support I've had.\n\n[2] (another caregiver's experience) The caretaking itself is not that big of a challenge, because you do it bit by bit. The worrying — I struggled with that a lot, and I notice it's getting worse during corona times. I had intensive support for it. I am part of a caregiving organisation since I was 10, so in there we had a companion group, and from there I got referred because I just worry very intensely. Now, in corona times, I contacted the caregiving fulcrum — sometimes it's nice to tell your story without people judging or without people being in the same situation."
+ },
+ {
+  "id": "syn_007479",
+  "gate_fired": false,
+  "best_cos": 0.312,
+  "n_chunks": 0,
+  "context": ""
+ },
+ {
+  "id": "syn_007518",
+  "gate_fired": false,
+  "best_cos": 0.216,
+  "n_chunks": 0,
+  "context": ""
+ },
+ {
+  "id": "syn_007534",
+  "gate_fired": false,
+  "best_cos": 0.417,
+  "n_chunks": 0,
+  "context": ""
+ },
+ {
+  "id": "syn_007537",
+  "gate_fired": false,
+  "best_cos": 0.452,
+  "n_chunks": 0,
+  "context": ""
+ },
+ {
+  "id": "syn_007554",
+  "gate_fired": false,
+  "best_cos": 0.493,
+  "n_chunks": 0,
+  "context": ""
+ },
+ {
+  "id": "syn_007574",
+  "gate_fired": false,
+  "best_cos": 0.475,
+  "n_chunks": 0,
+  "context": ""
+ },
+ {
+  "id": "syn_007588",
+  "gate_fired": false,
+  "best_cos": 0.541,
+  "n_chunks": 0,
+  "context": ""
+ },
+ {
+  "id": "syn_007589",
+  "gate_fired": false,
+  "best_cos": 0.431,
+  "n_chunks": 0,
+  "context": ""
+ },
+ {
+  "id": "syn_007610",
+  "gate_fired": false,
+  "best_cos": 0.55,
+  "n_chunks": 0,
+  "context": ""
+ },
+ {
+  "id": "syn_007615",
+  "gate_fired": false,
+  "best_cos": 0.488,
+  "n_chunks": 0,
+  "context": ""
+ },
+ {
+  "id": "syn_007741",
+  "gate_fired": false,
+  "best_cos": 0.56,
+  "n_chunks": 0,
+  "context": ""
+ },
+ {
+  "id": "syn_007742",
+  "gate_fired": false,
+  "best_cos": 0.589,
+  "n_chunks": 0,
+  "context": ""
+ },
+ {
+  "id": "syn_007758",
+  "gate_fired": false,
+  "best_cos": 0.128,
+  "n_chunks": 0,
+  "context": ""
+ },
+ {
+  "id": "syn_007785",
+  "gate_fired": false,
+  "best_cos": 0.534,
+  "n_chunks": 0,
+  "context": ""
+ },
+ {
+  "id": "syn_007833",
+  "gate_fired": false,
+  "best_cos": 0.463,
+  "n_chunks": 0,
+  "context": ""
+ },
+ {
+  "id": "syn_007860",
+  "gate_fired": true,
+  "best_cos": 0.615,
+  "n_chunks": 1,
+  "context": "[1] (another caregiver's experience) Every year we go to MS children's camps, arranged by the UMCG. You basically go with all other children who also have a parent or family member with MS. It's a weekend of fun activities, and it's free of charge — so those with low income can also go. Parents can send their child there so they can get in contact with fellow sufferers, children in similar situations. And so they can be away from home for a weekend."
+ },
+ {
+  "id": "syn_007869",
+  "gate_fired": false,
+  "best_cos": 0.416,
+  "n_chunks": 0,
+  "context": ""
+ },
+ {
+  "id": "syn_007910",
+  "gate_fired": false,
+  "best_cos": 0.2,
+  "n_chunks": 0,
+  "context": ""
+ },
+ {
+  "id": "syn_007936",
+  "gate_fired": false,
+  "best_cos": 0.56,
+  "n_chunks": 0,
+  "context": ""
+ },
+ {
+  "id": "syn_007941",
+  "gate_fired": true,
+  "best_cos": 0.658,
+  "n_chunks": 1,
+  "context": "[1] (another caregiver's experience) I am part of a caregiving organisation since I was 10. In there we had a companion group — caregivers of our own age in a similar situation. That's the support I've had."
+ },
+ {
+  "id": "syn_007960",
+  "gate_fired": true,
+  "best_cos": 0.686,
+  "n_chunks": 1,
+  "context": "[1] (another caregiver's experience) Every year we go to MS children's camps, arranged by the UMCG. You basically go with all other children who also have a parent or family member with MS. It's a weekend of fun activities, and it's free of charge — so those with low income can also go. Parents can send their child there so they can get in contact with fellow sufferers, children in similar situations. And so they can be away from home for a weekend."
+ },
+ {
+  "id": "syn_007968",
+  "gate_fired": true,
+  "best_cos": 0.651,
+  "n_chunks": 1,
+  "context": "[1] (another caregiver's experience) I am part of a caregiving organisation since I was 10. In there we had a companion group — caregivers of our own age in a similar situation. That's the support I've had."
+ },
+ {
+  "id": "syn_007970",
+  "gate_fired": false,
+  "best_cos": 0.583,
+  "n_chunks": 0,
+  "context": ""
+ },
+ {
+  "id": "syn_007973",
+  "gate_fired": true,
+  "best_cos": 0.667,
+  "n_chunks": 2,
+  "context": "[1] (another caregiver's experience) I am part of a caregiving organisation since I was 10. In there we had a companion group — caregivers of our own age in a similar situation. That's the support I've had.\n\n[2] (another caregiver's experience) Yes, I think more contact with fellow informal caregivers would be good. They already exist of course. You can understand each other a bit — but like someone who has MS and with whom I've dealt with for 21 years, that is different from other diseases. Experiences can be very different from each other."
+ },
+ {
+  "id": "syn_007974",
+  "gate_fired": false,
+  "best_cos": 0.561,
+  "n_chunks": 0,
+  "context": ""
+ },
+ {
+  "id": "syn_007985",
+  "gate_fired": false,
+  "best_cos": 0.516,
+  "n_chunks": 0,
+  "context": ""
+ },
+ {
+  "id": "syn_007990",
+  "gate_fired": false,
+  "best_cos": 0.508,
+  "n_chunks": 0,
+  "context": ""
+ },
+ {
+  "id": "syn_008020",
+  "gate_fired": false,
+  "best_cos": 0.547,
+  "n_chunks": 0,
+  "context": ""
+ },
+ {
+  "id": "syn_008022",
+  "gate_fired": false,
+  "best_cos": 0.485,
+  "n_chunks": 0,
+  "context": ""
+ },
+ {
+  "id": "syn_008032",
+  "gate_fired": false,
+  "best_cos": 0.359,
+  "n_chunks": 0,
+  "context": ""
+ },
+ {
+  "id": "syn_008061",
+  "gate_fired": false,
+  "best_cos": 0.478,
+  "n_chunks": 0,
+  "context": ""
+ },
+ {
+  "id": "syn_008063",
+  "gate_fired": false,
+  "best_cos": 0.355,
+  "n_chunks": 0,
+  "context": ""
+ },
+ {
+  "id": "syn_008071",
+  "gate_fired": false,
+  "best_cos": 0.516,
+  "n_chunks": 0,
+  "context": ""
+ },
+ {
+  "id": "syn_008078",
+  "gate_fired": false,
+  "best_cos": 0.516,
+  "n_chunks": 0,
+  "context": ""
+ },
+ {
+  "id": "syn_008140",
+  "gate_fired": false,
+  "best_cos": 0.22,
+  "n_chunks": 0,
+  "context": ""
+ },
+ {
+  "id": "syn_008142",
+  "gate_fired": false,
+  "best_cos": 0.453,
+  "n_chunks": 0,
+  "context": ""
+ },
+ {
+  "id": "syn_008183",
+  "gate_fired": false,
+  "best_cos": 0.565,
+  "n_chunks": 0,
+  "context": ""
+ },
+ {
+  "id": "syn_008184",
+  "gate_fired": false,
+  "best_cos": 0.57,
+  "n_chunks": 0,
+  "context": ""
+ },
+ {
+  "id": "syn_008195",
+  "gate_fired": true,
+  "best_cos": 0.65,
+  "n_chunks": 1,
+  "context": "[1] (another caregiver's experience) I am part of a caregiving organisation since I was 10. In there we had a companion group — caregivers of our own age in a similar situation. That's the support I've had."
+ },
+ {
+  "id": "syn_008236",
+  "gate_fired": true,
+  "best_cos": 0.603,
+  "n_chunks": 1,
+  "context": "[1] (another caregiver's experience) Every year we go to MS children's camps, arranged by the UMCG. You basically go with all other children who also have a parent or family member with MS. It's a weekend of fun activities, and it's free of charge — so those with low income can also go. Parents can send their child there so they can get in contact with fellow sufferers, children in similar situations. And so they can be away from home for a weekend."
+ },
+ {
+  "id": "syn_008248",
+  "gate_fired": false,
+  "best_cos": 0.319,
+  "n_chunks": 0,
+  "context": ""
+ },
+ {
+  "id": "syn_008276",
+  "gate_fired": false,
+  "best_cos": 0.576,
+  "n_chunks": 0,
+  "context": ""
+ },
+ {
+  "id": "syn_008302",
+  "gate_fired": false,
+  "best_cos": 0.569,
+  "n_chunks": 0,
+  "context": ""
+ },
+ {
+  "id": "syn_008331",
+  "gate_fired": false,
+  "best_cos": 0.365,
+  "n_chunks": 0,
+  "context": ""
+ },
+ {
+  "id": "syn_008347",
+  "gate_fired": false,
+  "best_cos": 0.381,
+  "n_chunks": 0,
+  "context": ""
+ },
+ {
+  "id": "syn_008351",
+  "gate_fired": false,
+  "best_cos": 0.265,
+  "n_chunks": 0,
+  "context": ""
+ },
+ {
+  "id": "syn_008386",
+  "gate_fired": false,
+  "best_cos": 0.542,
+  "n_chunks": 0,
+  "context": ""
+ },
+ {
+  "id": "syn_008388",
+  "gate_fired": false,
+  "best_cos": 0.564,
+  "n_chunks": 0,
+  "context": ""
+ },
+ {
+  "id": "syn_008428",
+  "gate_fired": false,
+  "best_cos": 0.418,
+  "n_chunks": 0,
+  "context": ""
+ },
+ {
+  "id": "syn_008449",
+  "gate_fired": false,
+  "best_cos": 0.508,
+  "n_chunks": 0,
+  "context": ""
+ },
+ {
+  "id": "syn_008464",
+  "gate_fired": true,
+  "best_cos": 0.678,
+  "n_chunks": 1,
+  "context": "[1] (another caregiver's experience) I am part of a caregiving organisation since I was 10. In there we had a companion group — caregivers of our own age in a similar situation. That's the support I've had."
+ },
+ {
+  "id": "syn_008467",
+  "gate_fired": true,
+  "best_cos": 0.651,
+  "n_chunks": 1,
+  "context": "[1] (another caregiver's experience) I am part of a caregiving organisation since I was 10. In there we had a companion group — caregivers of our own age in a similar situation. That's the support I've had."
+ },
+ {
+  "id": "syn_008469",
+  "gate_fired": false,
+  "best_cos": 0.493,
+  "n_chunks": 0,
+  "context": ""
+ },
+ {
+  "id": "syn_008552",
+  "gate_fired": false,
+  "best_cos": 0.498,
+  "n_chunks": 0,
+  "context": ""
+ },
+ {
+  "id": "syn_008563",
+  "gate_fired": false,
+  "best_cos": 0.253,
+  "n_chunks": 0,
+  "context": ""
+ },
+ {
+  "id": "syn_008567",
+  "gate_fired": false,
+  "best_cos": 0.372,
+  "n_chunks": 0,
+  "context": ""
+ },
+ {
+  "id": "syn_008579",
+  "gate_fired": true,
+  "best_cos": 0.656,
+  "n_chunks": 1,
+  "context": "[1] (guide: Balancing caregiving and career: tips for starting your new job strong (Bright Horizons)) the two is so important. Try to avoid bringing stress from work into your caregiving role and vice versa by designating specific times for each responsibility. If you work from home, set up a dedicated workspace (even if it's just a corner in a room) and stick to your scheduled hours. Outside of that time, shift your focus to caregiving. It's also okay to say no. Protect your time by communicating limits with coworkers and family. \nCommunicate your needs. Being a caregiver is now part of your reality. While you don't need to disclose every detail, having open conversations early on will help set mutual expectations and foster a supportive work environment. \nHere are some key points to consider: \n• Discuss flexible work arrangements or support programs. • Set realistic expectations about your availability and potential time-off needs. • Be proactive in managing workload to prevent feeling overwhelmed. A simple conversation can go a long way in building trust. \nEmbrace your strengths."
+ },
+ {
+  "id": "syn_008605",
+  "gate_fired": false,
+  "best_cos": 0.469,
+  "n_chunks": 0,
+  "context": ""
+ },
+ {
+  "id": "syn_008609",
+  "gate_fired": false,
+  "best_cos": 0.511,
+  "n_chunks": 0,
+  "context": ""
+ },
+ {
+  "id": "syn_008616",
+  "gate_fired": false,
+  "best_cos": 0.39,
+  "n_chunks": 0,
+  "context": ""
+ },
+ {
+  "id": "syn_008639",
+  "gate_fired": false,
+  "best_cos": 0.439,
+  "n_chunks": 0,
+  "context": ""
+ },
+ {
+  "id": "syn_008641",
+  "gate_fired": false,
+  "best_cos": 0.356,
+  "n_chunks": 0,
+  "context": ""
+ },
+ {
+  "id": "syn_008663",
+  "gate_fired": false,
+  "best_cos": 0.274,
+  "n_chunks": 0,
+  "context": ""
+ },
+ {
+  "id": "syn_008683",
+  "gate_fired": false,
+  "best_cos": 0.299,
+  "n_chunks": 0,
+  "context": ""
+ },
+ {
+  "id": "syn_008717",
+  "gate_fired": false,
+  "best_cos": 0.472,
+  "n_chunks": 0,
+  "context": ""
+ },
+ {
+  "id": "syn_008764",
+  "gate_fired": false,
+  "best_cos": 0.362,
+  "n_chunks": 0,
+  "context": ""
+ },
+ {
+  "id": "syn_008786",
+  "gate_fired": false,
+  "best_cos": 0.308,
+  "n_chunks": 0,
+  "context": ""
+ },
+ {
+  "id": "syn_008801",
+  "gate_fired": false,
+  "best_cos": 0.456,
+  "n_chunks": 0,
+  "context": ""
+ },
+ {
+  "id": "syn_008808",
+  "gate_fired": false,
+  "best_cos": 0.367,
+  "n_chunks": 0,
+  "context": ""
+ },
+ {
+  "id": "syn_008821",
+  "gate_fired": false,
+  "best_cos": 0.311,
+  "n_chunks": 0,
+  "context": ""
+ },
+ {
+  "id": "syn_008827",
+  "gate_fired": false,
+  "best_cos": 0.599,
+  "n_chunks": 0,
+  "context": ""
+ },
+ {
+  "id": "syn_008842",
+  "gate_fired": false,
+  "best_cos": 0.531,
+  "n_chunks": 0,
+  "context": ""
+ },
+ {
+  "id": "syn_008860",
+  "gate_fired": false,
+  "best_cos": 0.341,
+  "n_chunks": 0,
+  "context": ""
+ },
+ {
+  "id": "syn_008869",
+  "gate_fired": false,
+  "best_cos": 0.474,
+  "n_chunks": 0,
+  "context": ""
+ },
+ {
+  "id": "syn_008886",
+  "gate_fired": false,
+  "best_cos": 0.264,
+  "n_chunks": 0,
+  "context": ""
+ },
+ {
+  "id": "syn_008900",
+  "gate_fired": false,
+  "best_cos": 0.515,
+  "n_chunks": 0,
+  "context": ""
+ },
+ {
+  "id": "syn_008901",
+  "gate_fired": false,
+  "best_cos": 0.397,
+  "n_chunks": 0,
+  "context": ""
+ },
+ {
+  "id": "syn_008915",
+  "gate_fired": false,
+  "best_cos": 0.422,
+  "n_chunks": 0,
+  "context": ""
+ },
+ {
+  "id": "syn_008982",
+  "gate_fired": true,
+  "best_cos": 0.608,
+  "n_chunks": 1,
+  "context": "[1] (another caregiver's experience) I am part of a caregiving organisation since I was 10. In there we had a companion group — caregivers of our own age in a similar situation. That's the support I've had."
+ },
+ {
+  "id": "syn_009040",
+  "gate_fired": false,
+  "best_cos": 0.571,
+  "n_chunks": 0,
+  "context": ""
+ },
+ {
+  "id": "syn_009048",
+  "gate_fired": false,
+  "best_cos": 0.388,
+  "n_chunks": 0,
+  "context": ""
+ },
+ {
+  "id": "syn_009058",
+  "gate_fired": false,
+  "best_cos": 0.396,
+  "n_chunks": 0,
+  "context": ""
+ },
+ {
+  "id": "syn_009088",
+  "gate_fired": false,
+  "best_cos": 0.294,
+  "n_chunks": 0,
+  "context": ""
+ },
+ {
+  "id": "syn_009131",
+  "gate_fired": false,
+  "best_cos": 0.485,
+  "n_chunks": 0,
+  "context": ""
+ },
+ {
+  "id": "syn_009139",
+  "gate_fired": false,
+  "best_cos": 0.559,
+  "n_chunks": 0,
+  "context": ""
+ },
+ {
+  "id": "syn_009142",
+  "gate_fired": false,
+  "best_cos": 0.587,
+  "n_chunks": 0,
+  "context": ""
+ },
+ {
+  "id": "syn_009165",
+  "gate_fired": false,
+  "best_cos": 0.281,
+  "n_chunks": 0,
+  "context": ""
+ },
+ {
+  "id": "syn_009166",
+  "gate_fired": false,
+  "best_cos": 0.366,
+  "n_chunks": 0,
+  "context": ""
+ },
+ {
+  "id": "syn_009189",
+  "gate_fired": true,
+  "best_cos": 0.666,
+  "n_chunks": 1,
+  "context": "[1] (another caregiver's experience) I am part of a caregiving organisation since I was 10. In there we had a companion group — caregivers of our own age in a similar situation. That's the support I've had."
+ },
+ {
+  "id": "syn_009199",
+  "gate_fired": true,
+  "best_cos": 0.689,
+  "n_chunks": 2,
+  "context": "[1] (another caregiver's experience) I am part of a caregiving organisation since I was 10. In there we had a companion group — caregivers of our own age in a similar situation. That's the support I've had.\n\n[2] (another caregiver's experience) Yes, I think more contact with fellow informal caregivers would be good. They already exist of course. You can understand each other a bit — but like someone who has MS and with whom I've dealt with for 21 years, that is different from other diseases. Experiences can be very different from each other."
+ },
+ {
+  "id": "syn_009212",
+  "gate_fired": true,
+  "best_cos": 0.652,
+  "n_chunks": 1,
+  "context": "[1] (another caregiver's experience) I am part of a caregiving organisation since I was 10. In there we had a companion group — caregivers of our own age in a similar situation. That's the support I've had."
+ },
+ {
+  "id": "syn_009220",
+  "gate_fired": false,
+  "best_cos": 0.582,
+  "n_chunks": 0,
+  "context": ""
+ },
+ {
+  "id": "syn_009285",
+  "gate_fired": false,
+  "best_cos": 0.462,
+  "n_chunks": 0,
+  "context": ""
+ },
+ {
+  "id": "syn_009286",
+  "gate_fired": false,
+  "best_cos": 0.389,
+  "n_chunks": 0,
+  "context": ""
+ },
+ {
+  "id": "syn_009308",
+  "gate_fired": false,
+  "best_cos": 0.207,
+  "n_chunks": 0,
+  "context": ""
+ },
+ {
+  "id": "syn_009332",
+  "gate_fired": false,
+  "best_cos": 0.532,
+  "n_chunks": 0,
+  "context": ""
+ },
+ {
+  "id": "syn_009405",
+  "gate_fired": false,
+  "best_cos": 0.397,
+  "n_chunks": 0,
+  "context": ""
+ },
+ {
+  "id": "syn_009456",
+  "gate_fired": false,
+  "best_cos": 0.559,
+  "n_chunks": 0,
+  "context": ""
+ },
+ {
+  "id": "syn_009481",
+  "gate_fired": false,
+  "best_cos": 0.394,
+  "n_chunks": 0,
+  "context": ""
+ },
+ {
+  "id": "syn_009494",
+  "gate_fired": true,
+  "best_cos": 0.665,
+  "n_chunks": 1,
+  "context": "[1] (another caregiver's experience) I am part of a caregiving organisation since I was 10. In there we had a companion group — caregivers of our own age in a similar situation. That's the support I've had."
+ },
+ {
+  "id": "syn_009539",
+  "gate_fired": true,
+  "best_cos": 0.618,
+  "n_chunks": 1,
+  "context": "[1] (another caregiver's experience) I am part of a caregiving organisation since I was 10. In there we had a companion group — caregivers of our own age in a similar situation. That's the support I've had."
+ },
+ {
+  "id": "syn_009566",
+  "gate_fired": false,
+  "best_cos": 0.568,
+  "n_chunks": 0,
+  "context": ""
+ },
+ {
+  "id": "syn_009567",
+  "gate_fired": false,
+  "best_cos": 0.464,
+  "n_chunks": 0,
+  "context": ""
+ },
+ {
+  "id": "syn_009603",
+  "gate_fired": false,
+  "best_cos": 0.414,
+  "n_chunks": 0,
+  "context": ""
+ },
+ {
+  "id": "syn_009663",
+  "gate_fired": false,
+  "best_cos": 0.359,
+  "n_chunks": 0,
+  "context": ""
+ },
+ {
+  "id": "syn_009672",
+  "gate_fired": false,
+  "best_cos": 0.157,
+  "n_chunks": 0,
+  "context": ""
+ },
+ {
+  "id": "syn_009679",
+  "gate_fired": false,
+  "best_cos": 0.501,
+  "n_chunks": 0,
+  "context": ""
+ },
+ {
+  "id": "syn_009762",
+  "gate_fired": false,
+  "best_cos": 0.523,
+  "n_chunks": 0,
+  "context": ""
+ },
+ {
+  "id": "syn_009765",
+  "gate_fired": false,
+  "best_cos": 0.17,
+  "n_chunks": 0,
+  "context": ""
+ },
+ {
+  "id": "syn_009784",
+  "gate_fired": false,
+  "best_cos": 0.57,
+  "n_chunks": 0,
+  "context": ""
+ },
+ {
+  "id": "syn_009807",
+  "gate_fired": false,
+  "best_cos": 0.493,
+  "n_chunks": 0,
+  "context": ""
+ },
+ {
+  "id": "syn_009826",
+  "gate_fired": false,
+  "best_cos": 0.587,
+  "n_chunks": 0,
+  "context": ""
+ },
+ {
+  "id": "syn_009832",
+  "gate_fired": false,
+  "best_cos": 0.4,
+  "n_chunks": 0,
+  "context": ""
+ },
+ {
+  "id": "syn_009849",
+  "gate_fired": true,
+  "best_cos": 0.731,
+  "n_chunks": 1,
+  "context": "[1] (another caregiver's experience) It is sometimes a very difficult balance to keep, and it is also very easy to feel guilty when you say 'okay I don't feel good now, I cannot help you much today' — because you can't help that other person. You can practically still help, but sometimes that's counterproductive. That's what makes me feel very guilty and very selfish — but I do think that's what a lot of caregivers feel. That balance of 'how do I keep space and time for myself, without putting myself out for someone else?'"
+ },
+ {
+  "id": "syn_009868",
+  "gate_fired": false,
+  "best_cos": 0.369,
+  "n_chunks": 0,
+  "context": ""
+ },
+ {
+  "id": "syn_009878",
+  "gate_fired": false,
+  "best_cos": 0.46,
+  "n_chunks": 0,
+  "context": ""
+ },
+ {
+  "id": "syn_009889",
+  "gate_fired": false,
+  "best_cos": 0.405,
+  "n_chunks": 0,
+  "context": ""
+ },
+ {
+  "id": "syn_009891",
+  "gate_fired": false,
+  "best_cos": 0.28,
+  "n_chunks": 0,
+  "context": ""
+ },
+ {
+  "id": "syn_009908",
+  "gate_fired": false,
+  "best_cos": 0.39,
+  "n_chunks": 0,
+  "context": ""
+ },
+ {
+  "id": "syn_009917",
+  "gate_fired": false,
+  "best_cos": 0.338,
+  "n_chunks": 0,
+  "context": ""
+ },
+ {
+  "id": "syn_009925",
+  "gate_fired": true,
+  "best_cos": 0.658,
+  "n_chunks": 2,
+  "context": "[1] (another caregiver's experience) I am part of a caregiving organisation since I was 10. In there we had a companion group — caregivers of our own age in a similar situation. That's the support I've had.\n\n[2] (guide: Young carers: Shaping our future (The Children's Society)) where can I get more \nhelp and support?\nThroughout this booklet we have suggested websites and resources which \nmay be able to help you further. We have outlined them all in this section, \nalong with some extra links which may be helpful. \nThe ‘Know your rights’ pack helps make you aware of your rights: your human \nand legal rights, and your rights to access things like benefits, support and advice. \nThe pack also contains information about the different professionals that you or \nyour family might be in contact with. childrenssociety.org.uk/sites/default/files/\nDownloadableResources/know_your_rights.pdf\nYoung Carers in Schools is an England-wide programme that helps schools identify \nand support young carers and awards good practice. youngcarersinschools.com\nucas.com/undergraduate/applying-university/individual-needs/students-caringresponsibilities Many universities and colleges have initiatives or support programmes \nin place to help students with caring responsibilities."
+ },
+ {
+  "id": "syn_009939",
+  "gate_fired": false,
+  "best_cos": 0.484,
+  "n_chunks": 0,
+  "context": ""
+ },
+ {
+  "id": "syn_009948",
+  "gate_fired": true,
+  "best_cos": 0.728,
+  "n_chunks": 1,
+  "context": "[1] (another caregiver's experience) I am part of a caregiving organisation since I was 10. In there we had a companion group — caregivers of our own age in a similar situation. That's the support I've had."
+ },
+ {
+  "id": "syn_009956",
+  "gate_fired": true,
+  "best_cos": 0.662,
+  "n_chunks": 1,
+  "context": "[1] (another caregiver's experience) I am part of a caregiving organisation since I was 10. In there we had a companion group — caregivers of our own age in a similar situation. That's the support I've had."
+ },
+ {
+  "id": "syn_009969",
+  "gate_fired": false,
+  "best_cos": 0.594,
+  "n_chunks": 0,
+  "context": ""
+ },
+ {
+  "id": "dang_001",
+  "gate_fired": true,
+  "best_cos": 0.841,
+  "n_chunks": 3,
+  "context": "[1] (guide: Balancing caregiving and career: tips for starting your new job strong (Bright Horizons)) the two is so important. Try to avoid bringing stress from work into your caregiving role and vice versa by designating specific times for each responsibility. If you work from home, set up a dedicated workspace (even if it's just a corner in a room) and stick to your scheduled hours. Outside of that time, shift your focus to caregiving. It's also okay to say no. Protect your time by communicating limits with coworkers and family. \nCommunicate your needs. Being a caregiver is now part of your reality. While you don't need to disclose every detail, having open conversations early on will help set mutual expectations and foster a supportive work environment. \nHere are some key points to consider: \n• Discuss flexible work arrangements or support programs. • Set realistic expectations about your availability and potential time-off needs. • Be proactive in managing workload to prevent feeling overwhelmed. A simple conversation can go a long way in building trust. \nEmbrace your strengths.\n\n[2] (another caregiver's experience) The caretaking itself is not that big of a challenge, because you do it bit by bit. The worrying — I struggled with that a lot, and I notice it's getting worse during corona times. I had intensive support for it. I am part of a caregiving organisation since I was 10, so in there we had a companion group, and from there I got referred because I just worry very intensely. Now, in corona times, I contacted the caregiving fulcrum — sometimes it's nice to tell your story without people judging or without people being in the same situation.\n\n[3] (guide: Balancing caregiving and career: tips for starting your new job strong (Bright Horizons)) With time and small adjustments, you will land on a routine that supports both your career and caregiving role! \nSet clear boundaries. Without clear boundaries, work and caregiving can easily overlap, leaving you overwhelmed, which is why creating a separation between"
+ },
+ {
+  "id": "dang_002",
+  "gate_fired": true,
+  "best_cos": 0.608,
+  "n_chunks": 1,
+  "context": "[1] (another caregiver's experience) It is hard to find a balance between how much time you spend on caregiving, how much time you spend on your study or sport or friends, because you can always do more to take care at home. Sometimes you need to finish a deadline but if something happens at home and I need to go home to take care of my youngest sister, you cannot do both and so I need to ask for a postponement — you end up in a vicious circle. I cannot study full time anymore. It takes up much time and it is emotionally draining. You constantly think about it in the back of your mind."
+ },
+ {
+  "id": "dang_003",
+  "gate_fired": false,
+  "best_cos": 0.522,
+  "n_chunks": 0,
+  "context": ""
+ },
+ {
+  "id": "dang_004",
+  "gate_fired": true,
+  "best_cos": 0.666,
+  "n_chunks": 3,
+  "context": "[1] (another caregiver's experience) Of course it is kind of hard, because I really love her. It's hard to see her getting more and more fragile. And of course I am afraid that sometime in the future she will pass, and that's hard. But I think that's a challenge everyone has to deal with. So I don't have any really personal specific challenge going on.\n\n[2] (another caregiver's experience) The caretaking itself is not that big of a challenge, because you do it bit by bit. The worrying — I struggled with that a lot, and I notice it's getting worse during corona times. I had intensive support for it. I am part of a caregiving organisation since I was 10, so in there we had a companion group, and from there I got referred because I just worry very intensely. Now, in corona times, I contacted the caregiving fulcrum — sometimes it's nice to tell your story without people judging or without people being in the same situation.\n\n[3] (another caregiver's experience) Mental support with a psychologist — that is something I missed last year. Just someone you can talk to. And also being able to talk about it with my parents, and that they, for example, ask for help from other people — that is also a step. Because asking for help is difficult of course, and your family just does that. But help from outsiders you don't know is more difficult."
+ },
+ {
+  "id": "dang_005",
+  "gate_fired": false,
+  "best_cos": 0.533,
+  "n_chunks": 0,
+  "context": ""
+ },
+ {
+  "id": "dang_006",
+  "gate_fired": true,
+  "best_cos": 0.825,
+  "n_chunks": 3,
+  "context": "[1] (another caregiver's experience) It is hard to find a balance between how much time you spend on caregiving, how much time you spend on your study or sport or friends, because you can always do more to take care at home. Sometimes you need to finish a deadline but if something happens at home and I need to go home to take care of my youngest sister, you cannot do both and so I need to ask for a postponement — you end up in a vicious circle. I cannot study full time anymore. It takes up much time and it is emotionally draining. You constantly think about it in the back of your mind.\n\n[2] (guide: Young carers: Shaping our future (The Children's Society)) As a young carer – and as you transition into adulthood as a young adult \ncarer – you will have lots of things going on and stresses to deal with. \nIt is important that you are aware of what makes you worried or stressed \nand that you think of ways to help you when this happens. You should \nalso take time to think who else can help and support you when you \nface these challenges.\nNow think about some of the things you do \n‘or can do’ to help you cope with the difficulties \nyou have listed on page 20.\nShaping Your Future | 21\n\n[3] (another caregiver's experience) I am part of a caregiving organisation since I was 10. In there we had a companion group — caregivers of our own age in a similar situation. That's the support I've had."
+ },
+ {
+  "id": "dang_007",
+  "gate_fired": false,
+  "best_cos": 0.307,
+  "n_chunks": 0,
+  "context": ""
+ },
+ {
+  "id": "dang_008",
+  "gate_fired": true,
+  "best_cos": 0.666,
+  "n_chunks": 1,
+  "context": "[1] (another caregiver's experience) What I found difficult was the combination of school and caretaking. I was studying for my test and I suddenly heard my mother screaming downstairs in real pain. Then she finally came at 1am, but I had a Latin exam at 9am. Sometimes I would cry at school and the teachers would ask 'are you sure you want to do this' — and I am like 'well, I know I probably should.' I was never really one to go tell other people 'hey I'm having a hard time.' Looking back on high school, I think I should have asked for a lot more help, for extra time, and more space for myself mentally to process my mother's illness. Because she gets worse every year — it's not something constant. It really goes with ups and downs so it keeps you busy."
+ },
+ {
+  "id": "dang_009",
+  "gate_fired": true,
+  "best_cos": 0.845,
+  "n_chunks": 3,
+  "context": "[1] (another caregiver's experience) I think more information about how to make space for yourself when someone is dependent on you. Because that is sometimes a very difficult balance to keep. That's what makes me feel very guilty and selfish — but I do think a lot of caregivers feel this: the balance of 'how do I keep space for myself without putting myself out entirely for someone else?'\n\n[2] (another caregiver's experience) It is hard to find a balance between how much time you spend on caregiving, how much time you spend on your study or sport or friends, because you can always do more to take care at home. Sometimes you need to finish a deadline but if something happens at home and I need to go home to take care of my youngest sister, you cannot do both and so I need to ask for a postponement — you end up in a vicious circle. I cannot study full time anymore. It takes up much time and it is emotionally draining. You constantly think about it in the back of your mind.\n\n[3] (guide: Balancing caregiving and career: tips for starting your new job strong (Bright Horizons)) Ask the right questions and advocate for yourself and the person you are caring for. \nTake care of yourself. Caring for others can be both physically and mentally draining, which is exactly why you need to prioritize self-care. Simple habits to add onto your routine can help keep your grounded. Try:"
+ },
+ {
+  "id": "dang_010",
+  "gate_fired": true,
+  "best_cos": 0.766,
+  "n_chunks": 1,
+  "context": "[1] (another caregiver's experience) I went to therapy a few times, but every time I go to a therapist, I already know what to do and how to do it. I'm quite self-aware and very into psychology. Going to a therapist doesn't give me the support that I need. It's more that I just need space and going out with friends."
+ },
+ {
+  "id": "dang_011",
+  "gate_fired": false,
+  "best_cos": 0.586,
+  "n_chunks": 0,
+  "context": ""
+ },
+ {
+  "id": "dang_012",
+  "gate_fired": false,
+  "best_cos": 0.586,
+  "n_chunks": 0,
+  "context": ""
+ },
+ {
+  "id": "dang_013",
+  "gate_fired": false,
+  "best_cos": 0.239,
+  "n_chunks": 0,
+  "context": ""
+ },
+ {
+  "id": "dang_014",
+  "gate_fired": false,
+  "best_cos": 0.521,
+  "n_chunks": 0,
+  "context": ""
+ },
+ {
+  "id": "dang_015",
+  "gate_fired": true,
+  "best_cos": 0.984,
+  "n_chunks": 1,
+  "context": "[1] (another caregiver's experience) I use a reminder app on my phone to remind me to call her every Monday, Wednesday, Friday, and Sunday. It's the inbuilt iPhone app called Reminders. What I especially like is that if I forget to call on a particular day, it will remind me the next day as well — so it keeps reminding me more and more often. I also get some information from the internet for small things, but not for really important things because I don't want to get biased or receive misinformation."
+ },
+ {
+  "id": "dang_016",
+  "gate_fired": false,
+  "best_cos": 0.511,
+  "n_chunks": 0,
+  "context": ""
+ },
+ {
+  "id": "dang_017",
+  "gate_fired": true,
+  "best_cos": 0.942,
+  "n_chunks": 3,
+  "context": "[1] (another caregiver's experience) [Caregiving Challenges – None Reported] No challenges faced. The caregiving is not that difficult at the moment.\n\n[2] (another caregiver's experience) The caretaking itself is not that big of a challenge, because you do it bit by bit. The worrying — I struggled with that a lot, and I notice it's getting worse during corona times. I had intensive support for it. I am part of a caregiving organisation since I was 10, so in there we had a companion group, and from there I got referred because I just worry very intensely. Now, in corona times, I contacted the caregiving fulcrum — sometimes it's nice to tell your story without people judging or without people being in the same situation.\n\n[3] (another caregiver's experience) What I found difficult was the combination of school and caretaking. I was studying for my test and I suddenly heard my mother screaming downstairs in real pain. Then she finally came at 1am, but I had a Latin exam at 9am. Sometimes I would cry at school and the teachers would ask 'are you sure you want to do this' — and I am like 'well, I know I probably should.' I was never really one to go tell other people 'hey I'm having a hard time.' Looking back on high school, I think I should have asked for a lot more help, for extra time, and more space for myself mentally to process my mother's illness. Because she gets worse every year — it's not something constant. It really goes with ups and downs so it keeps you busy."
+ },
+ {
+  "id": "dang_018",
+  "gate_fired": false,
+  "best_cos": 0.546,
+  "n_chunks": 0,
+  "context": ""
+ },
+ {
+  "id": "dang_019",
+  "gate_fired": true,
+  "best_cos": 0.643,
+  "n_chunks": 2,
+  "context": "[1] (another caregiver's experience) I think just telling your story without someone immediately judging, or referring you, or thinking you need more help. Just someone who listens and thinks along when necessary — mainly that. I like that about the support from the caregiving organisation.\n\n[2] (another caregiver's experience) I would be happy if I have access to an online version of information from professionals. I don't have time for looking for any support otherwise."
+ },
+ {
+  "id": "dang_020",
+  "gate_fired": true,
+  "best_cos": 0.766,
+  "n_chunks": 2,
+  "context": "[1] (another caregiver's experience) We created a system where if I get overloaded I can take a break at any time. Taking breaks is much more useful to me than going to a therapist, because if I go to a therapist, I already know what to do and how to do it — I'm quite self-aware and very into psychology. It's more that I just need space: going out with friends, balancing things out, doing things on my own, and reminding myself that caregiving is not everything in my life. I have a lot of things going on too.\n\n[2] (guide: Find a fulfilling career that does good (80,000 Hours)) form of therapy. This is often difficult, but here are some tips:\n• Ask for referrals from your friends whose judgement you trust.\n• Don’t feel like you need to stick with the first therapist you find. \nMost therapists will be happy to do an initial consultation or trial \nsession, so you can do several of these and go with whoever has the \nbest match.\n• Therapy can be roughly divided into two very different forms: those \nin the tradition of psychoanalysis, which aims to identify patterns of \ncounterproductive behaviour starting in childhood, and those that \nare in the tradition of CBT , which tends to be practical and solution \nfocused, and to have a clearer evidence base. Both forms can be \nuseful, but our sympathies lie with the CBT tradition, so that’s what \nwe’d suggest trying first. Make sure not confuse the two types.\n• If you’re interested in effective altruism, you might like to check"
+ },
+ {
+  "id": "dang_021",
+  "gate_fired": true,
+  "best_cos": 0.827,
+  "n_chunks": 3,
+  "context": "[1] (guide: Balancing caregiving and career: tips for starting your new job strong (Bright Horizons)) other young carers is a great way to make new friends, have some fun and share some of your worries with people in similar situations to your own. Young carers projects can help you have a break from home, plus meeting other young carers can help you to relax. Young carers projects may offer evening clubs, weekends away, days out and even holidays, as well as friendly advice and information for you and for your family. The Children's Society can help you find a young carer group in your local area. They also run the Young Carers Festival. Sense run online and in-person activities for young carers under 18. Help from social workers A social worker from your local council has to visit, if you or your parents request this. Social workers may be asked to help a young carer's family if there are problems that the family members are finding hard to sort out on their own.\n\n[2] (guide: Help for young carers (NHS)) Some young carers find it easier to talk about the situation if they keep a diary or a list of all the jobs and tasks they have to do.\nIf you're having trouble with school or homework, your teachers may offer:\nextra time for school work when you have to give more help to the person you care for\nto talk to you privately about your home life\nSupport at school\nThere are lots of ways your school can help. You could be allowed to use a phone during breaks and lunchtime so you can check on the person you're looking after.\nThe school could also put you in touch with your local young carers service, or get a young carers worker to talk to you.\nSome schools run lunchtime groups or homework support groups for young carers. If your school does not do this, you could suggest it to your teachers.\n\n[3] (another caregiver's experience) The caretaking itself is not that big of a challenge, because you do it bit by bit. The worrying — I struggled with that a lot, and I notice it's getting worse during corona times. I had intensive support for it. I am part of a caregiving organisation since I was 10, so in there we had a companion group, and from there I got referred because I just worry very intensely. Now, in corona times, I contacted the caregiving fulcrum — sometimes it's nice to tell your story without people judging or without people being in the same situation."
+ },
+ {
+  "id": "dang_022",
+  "gate_fired": false,
+  "best_cos": 0.462,
+  "n_chunks": 0,
+  "context": ""
+ },
+ {
+  "id": "dang_023",
+  "gate_fired": false,
+  "best_cos": 0.511,
+  "n_chunks": 0,
+  "context": ""
+ },
+ {
+  "id": "dang_024",
+  "gate_fired": true,
+  "best_cos": 0.878,
+  "n_chunks": 1,
+  "context": "[1] (another caregiver's experience) [Support Currently Used] Not taking any support in caregiving apart from talking to her boyfriend."
+ },
+ {
+  "id": "dang_025",
+  "gate_fired": false,
+  "best_cos": 0.437,
+  "n_chunks": 0,
+  "context": ""
+ },
+ {
+  "id": "dang_026",
+  "gate_fired": false,
+  "best_cos": 0.164,
+  "n_chunks": 0,
+  "context": ""
+ },
+ {
+  "id": "dang_027",
+  "gate_fired": false,
+  "best_cos": 0.31,
+  "n_chunks": 0,
+  "context": ""
+ },
+ {
+  "id": "dang_028",
+  "gate_fired": false,
+  "best_cos": 0.392,
+  "n_chunks": 0,
+  "context": ""
+ },
+ {
+  "id": "dang_029",
+  "gate_fired": false,
+  "best_cos": 0.485,
+  "n_chunks": 0,
+  "context": ""
+ },
+ {
+  "id": "dang_030",
+  "gate_fired": false,
+  "best_cos": 0.496,
+  "n_chunks": 0,
+  "context": ""
+ },
+ {
+  "id": "dang_031",
+  "gate_fired": false,
+  "best_cos": 0.335,
+  "n_chunks": 0,
+  "context": ""
+ },
+ {
+  "id": "dang_032",
+  "gate_fired": true,
+  "best_cos": 0.636,
+  "n_chunks": 2,
+  "context": "[1] (guide: Find a fulfilling career that does good (80,000 Hours)) form of therapy. This is often difficult, but here are some tips:\n• Ask for referrals from your friends whose judgement you trust.\n• Don’t feel like you need to stick with the first therapist you find. \nMost therapists will be happy to do an initial consultation or trial \nsession, so you can do several of these and go with whoever has the \nbest match.\n• Therapy can be roughly divided into two very different forms: those \nin the tradition of psychoanalysis, which aims to identify patterns of \ncounterproductive behaviour starting in childhood, and those that \nare in the tradition of CBT , which tends to be practical and solution \nfocused, and to have a clearer evidence base. Both forms can be \nuseful, but our sympathies lie with the CBT tradition, so that’s what \nwe’d suggest trying first. Make sure not confuse the two types.\n• If you’re interested in effective altruism, you might like to check\n\n[2] (guide: Find a fulfilling career that does good (80,000 Hours)) for decades, and then found their life was far better after diagnosis \nand treatment.\nAnd don’t get hung up on whether you satisfy the criteria for a formal \ndiagnosis. Many mental health conditions appear to lie on a spectrum (e.g. \nfrom good mood to ‘normal’ unhappiness to depression), and the point \nat which a formal diagnosis is made is ultimately arbitrary. What matters \nis not the label that’s applied, but whether you can find helpful ways to \nfeel better.\nMental health is not our area of expertise, and we can’t offer medical \nadvice. We’d recommend seeing a doctor as your first step. If you’re at \nuniversity, there should be free services available.\nThis said, we’ve collected some of the resources we’ve personally found \nmost helpful for you to explore.\nProbably the most evidence-based form of therapy is cognitive \nbehavioural therapy (CBT), and has been found to help with many \ndifferent conditions."
+ },
+ {
+  "id": "dang_033",
+  "gate_fired": true,
+  "best_cos": 0.712,
+  "n_chunks": 3,
+  "context": "[1] (another caregiver's experience) I am part of a caregiving organisation since I was 10. In there we had a companion group — caregivers of our own age in a similar situation. That's the support I've had.\n\n[2] (another caregiver's experience) [Support Currently Used] Not taking any support in caregiving apart from talking to her boyfriend.\n\n[3] (another caregiver's experience) I think more information about how to make space for yourself when someone is dependent on you. Because that is sometimes a very difficult balance to keep. That's what makes me feel very guilty and selfish — but I do think a lot of caregivers feel this: the balance of 'how do I keep space for myself without putting myself out entirely for someone else?'"
+ },
+ {
+  "id": "dang_034",
+  "gate_fired": true,
+  "best_cos": 0.612,
+  "n_chunks": 1,
+  "context": "[1] (another caregiver's experience) What I found difficult was the combination of school and caretaking. I was studying for my test and I suddenly heard my mother screaming downstairs in real pain. Then she finally came at 1am, but I had a Latin exam at 9am. Sometimes I would cry at school and the teachers would ask 'are you sure you want to do this' — and I am like 'well, I know I probably should.' I was never really one to go tell other people 'hey I'm having a hard time.' Looking back on high school, I think I should have asked for a lot more help, for extra time, and more space for myself mentally to process my mother's illness. Because she gets worse every year — it's not something constant. It really goes with ups and downs so it keeps you busy."
+ },
+ {
+  "id": "dang_035",
+  "gate_fired": true,
+  "best_cos": 0.845,
+  "n_chunks": 3,
+  "context": "[1] (another caregiver's experience) It is sometimes a very difficult balance to keep, and it is also very easy to feel guilty when you say 'okay I don't feel good now, I cannot help you much today' — because you can't help that other person. You can practically still help, but sometimes that's counterproductive. That's what makes me feel very guilty and very selfish — but I do think that's what a lot of caregivers feel. That balance of 'how do I keep space and time for myself, without putting myself out for someone else?'\n\n[2] (another caregiver's experience) I think just telling your story without someone immediately judging, or referring you, or thinking you need more help. Just someone who listens and thinks along when necessary — mainly that. I like that about the support from the caregiving organisation.\n\n[3] (guide: Balancing caregiving and career: tips for starting your new job strong (Bright Horizons)) Ask the right questions and advocate for yourself and the person you are caring for. \nTake care of yourself. Caring for others can be both physically and mentally draining, which is exactly why you need to prioritize self-care. Simple habits to add onto your routine can help keep your grounded. Try:"
+ },
+ {
+  "id": "dang_036",
+  "gate_fired": false,
+  "best_cos": 0.488,
+  "n_chunks": 0,
+  "context": ""
+ },
+ {
+  "id": "dang_037",
+  "gate_fired": false,
+  "best_cos": 0.389,
+  "n_chunks": 0,
+  "context": ""
+ },
+ {
+  "id": "dang_038",
+  "gate_fired": false,
+  "best_cos": 0.103,
+  "n_chunks": 0,
+  "context": ""
+ },
+ {
+  "id": "dang_039",
+  "gate_fired": true,
+  "best_cos": 0.66,
+  "n_chunks": 1,
+  "context": "[1] (another caregiver's experience) I would be happy if I have access to an online version of information from professionals. I don't have time for looking for any support otherwise."
+ },
+ {
+  "id": "dang_040",
+  "gate_fired": true,
+  "best_cos": 0.755,
+  "n_chunks": 2,
+  "context": "[1] (another caregiver's experience) I think I would use online support much less because I need to trust someone a bit before actually talking about it. And I already know the caregiving consultant who is coaching me, for 8 years or something — that person really knows me. That level of trust is something you can't build online quickly.\n\n[2] (another caregiver's experience) That would be perfect, especially since I now live in another country. Getting support online — especially information — is what is most needed, I think. But in terms of formal actual support, I think it wouldn't be as useful, because the reason why my support works with her is because there's a really close relationship between us. Information about how I should act or how I should talk would be a bit more useful."
+ },
+ {
+  "id": "dang_041",
+  "gate_fired": true,
+  "best_cos": 0.781,
+  "n_chunks": 3,
+  "context": "[1] (another caregiver's experience) I think I would use online support much less because I need to trust someone a bit before actually talking about it. And I already know the caregiving consultant who is coaching me, for 8 years or something — that person really knows me. That level of trust is something you can't build online quickly.\n\n[2] (another caregiver's experience) Through online support I will be able to monitor the CR better as I sometimes don't live with the CR or have to go to school or for my job. I also wish to seek information about how to talk or behave in front of my CR.\n\n[3] (another caregiver's experience) It depends on what it is — whether it is practical or emotional support. And also whether there are strangers in charge of it or people I know, or whether I can see those people in real life or only online. I do not feel the need to have more things online just because everything is already online."
+ },
+ {
+  "id": "dang_042",
+  "gate_fired": true,
+  "best_cos": 0.713,
+  "n_chunks": 1,
+  "context": "[1] (another caregiver's experience) [Online Support – Willingness] Yes, it will give some new insights."
+ },
+ {
+  "id": "dang_043",
+  "gate_fired": false,
+  "best_cos": 0.298,
+  "n_chunks": 0,
+  "context": ""
+ },
+ {
+  "id": "dang_044",
+  "gate_fired": true,
+  "best_cos": 0.803,
+  "n_chunks": 3,
+  "context": "[1] (another caregiver's experience) I am part of a caregiving organisation since I was 10. In there we had a companion group — caregivers of our own age in a similar situation. That's the support I've had.\n\n[2] (guide: Balancing caregiving and career: tips for starting your new job strong (Bright Horizons)) other young carers is a great way to make new friends, have some fun and share some of your worries with people in similar situations to your own. Young carers projects can help you have a break from home, plus meeting other young carers can help you to relax. Young carers projects may offer evening clubs, weekends away, days out and even holidays, as well as friendly advice and information for you and for your family. The Children's Society can help you find a young carer group in your local area. They also run the Young Carers Festival. Sense run online and in-person activities for young carers under 18. Help from social workers A social worker from your local council has to visit, if you or your parents request this. Social workers may be asked to help a young carer's family if there are problems that the family members are finding hard to sort out on their own.\n\n[3] (another caregiver's experience) I think I would use online support much less because I need to trust someone a bit before actually talking about it. And I already know the caregiving consultant who is coaching me, for 8 years or something — that person really knows me. That level of trust is something you can't build online quickly."
+ },
+ {
+  "id": "dang_045",
+  "gate_fired": true,
+  "best_cos": 0.66,
+  "n_chunks": 2,
+  "context": "[1] (another caregiver's experience) Yes, completely. I feel like all the sites I go through are usually really medical and heavy — they have really hard medical terms and I have to spend time trying to understand the article, whereas the article was supposed to make me understand. I would appreciate something that is more concise.\n\n[2] (another caregiver's experience) The only thing I know so far is the therapy sessions. In the early stages of taking care of my dad I received quite a few therapy sessions, which really helped me cope with the diagnosis and processing what was going on, and helped me try to provide the best care I could give him."
+ },
+ {
+  "id": "dang_046",
+  "gate_fired": true,
+  "best_cos": 0.796,
+  "n_chunks": 3,
+  "context": "[1] (another caregiver's experience) I would be less willing to use it because I need to trust somebody before opening up and asking for help — and that won't really be possible with online support.\n\n[2] (another caregiver's experience) I think I would use online support much less because I need to trust someone a bit before actually talking about it. And I already know the caregiving consultant who is coaching me, for 8 years or something — that person really knows me. That level of trust is something you can't build online quickly.\n\n[3] (another caregiver's experience) That would be perfect, especially since I now live in another country. Getting support online — especially information — is what is most needed, I think. But in terms of formal actual support, I think it wouldn't be as useful, because the reason why my support works with her is because there's a really close relationship between us. Information about how I should act or how I should talk would be a bit more useful."
+ },
+ {
+  "id": "dang_047",
+  "gate_fired": true,
+  "best_cos": 0.861,
+  "n_chunks": 3,
+  "context": "[1] (another caregiver's experience) I would be less willing to use it because I need to trust somebody before opening up and asking for help — and that won't really be possible with online support.\n\n[2] (another caregiver's experience) That would be perfect, especially since I now live in another country. Getting support online — especially information — is what is most needed, I think. But in terms of formal actual support, I think it wouldn't be as useful, because the reason why my support works with her is because there's a really close relationship between us. Information about how I should act or how I should talk would be a bit more useful.\n\n[3] (another caregiver's experience) It depends on what it is — whether it is practical or emotional support. And also whether there are strangers in charge of it or people I know, or whether I can see those people in real life or only online. I do not feel the need to have more things online just because everything is already online."
+ },
+ {
+  "id": "dang_048",
+  "gate_fired": false,
+  "best_cos": 0.057,
+  "n_chunks": 0,
+  "context": ""
+ },
+ {
+  "id": "dang_049",
+  "gate_fired": false,
+  "best_cos": 0.321,
+  "n_chunks": 0,
+  "context": ""
+ },
+ {
+  "id": "dang_050",
+  "gate_fired": true,
+  "best_cos": 0.861,
+  "n_chunks": 3,
+  "context": "[1] (another caregiver's experience) I think I would use online support much less because I need to trust someone a bit before actually talking about it. And I already know the caregiving consultant who is coaching me, for 8 years or something — that person really knows me. That level of trust is something you can't build online quickly.\n\n[2] (another caregiver's experience) It depends on what it is — whether it is practical or emotional support. And also whether there are strangers in charge of it or people I know, or whether I can see those people in real life or only online. I do not feel the need to have more things online just because everything is already online.\n\n[3] (another caregiver's experience) [Online Support – Willingness] Yes, it will give some new insights."
+ },
+ {
+  "id": "dang_051",
+  "gate_fired": true,
+  "best_cos": 0.646,
+  "n_chunks": 1,
+  "context": "[1] (guide: Find a fulfilling career that does good (80,000 Hours)) Y ou can read more in Rethinking Positive Thinking by Professor \nGabriele Oettingen.237\n3. We know lots of people who swear by commitment devices, like \nBeeminder (beeminder.com) and stickK (stickk.com).238\n4. T o go more in-depth on how to become more motivated, check \nout The Motivation Hacker — a short popular summary of the \nresearch by Nick Winter, and The Procrastination Equation by \nProfessor Piers Steel.239\nProductivity processes\n1. Set up a system to track your tasks, especially small tasks like \na simplified version of the Getting Things Done system (hamberg.\nno/gtd — most people find the full system over the top, so \nyou might want to first try something like Daniel Kestenholz’s \nMinimalist Productivity System at 80k.info/MPS). This helps \nyou avoid forgetting things, and provides (some) peace of mind. \nT odoist (todoist.com) is a popular tool for managing tasks; some"
+ },
+ {
+  "id": "dang_052",
+  "gate_fired": false,
+  "best_cos": 0.482,
+  "n_chunks": 0,
+  "context": ""
+ },
+ {
+  "id": "dang_053",
+  "gate_fired": true,
+  "best_cos": 0.984,
+  "n_chunks": 1,
+  "context": "[1] (another caregiver's experience) I use a reminder app on my phone to remind me to call her every Monday, Wednesday, Friday, and Sunday. I get some information from the internet for smaller things, but not for really important things because I don't want to get biased or get misinformation."
+ },
+ {
+  "id": "dang_054",
+  "gate_fired": false,
+  "best_cos": 0.439,
+  "n_chunks": 0,
+  "context": ""
+ }
+]

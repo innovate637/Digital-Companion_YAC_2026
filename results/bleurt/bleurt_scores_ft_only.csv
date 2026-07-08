@@ -1,0 +1,501 @@
+id,category,BLEURT
+syn_000027,Caregiving Challenges – Emotional Impact,0.4378201365470886
+syn_000039,Caregiving Challenges – Emotional Impact,0.42790788412094116
+syn_000049,Caregiving Challenges – Emotional Impact,0.4677550792694092
+syn_000050,Caregiving Challenges – Emotional Impact,0.45464181900024414
+syn_000095,Caregiving Challenges – Distance Caregiving,0.42889171838760376
+syn_000139,Support Currently Used,0.4236014485359192
+syn_000163,Support Needed,0.4375084638595581
+syn_000169,Support Needed,0.3999977111816406
+syn_000200,Online Support – Willingness,0.46927642822265625
+syn_000204,Online Support – Barriers,0.42203813791275024
+syn_000303,Caregiving Challenges – Care Recipient Behavior,0.4509388208389282
+syn_000304,Caregiving Challenges – Care Recipient Behavior,0.46413350105285645
+syn_000322,Caregiving Challenges – Care Recipient Behavior,0.49571019411087036
+syn_000328,Caregiving Challenges – Distance Caregiving,0.50316321849823
+syn_000352,Caregiving Challenges – None Reported,0.4377868175506592
+syn_000385,Support Currently Used,0.4462730288505554
+syn_000391,Support Currently Used,0.42159217596054077
+syn_000392,Support Currently Used,0.5081993341445923
+syn_000401,Support Needed,0.37738052010536194
+syn_000416,Support Needed,0.4413263201713562
+syn_000423,Support Needed,0.43655121326446533
+syn_000436,Online Support – Willingness,0.40404266119003296
+syn_000452,Online Support – Barriers,0.3710443675518036
+syn_000453,Online Support – Barriers,0.5051753520965576
+syn_000457,Online Support – Barriers,0.4775763154029846
+syn_000467,Online Support – Barriers,0.47310566902160645
+syn_000471,Online Support – Barriers,0.4880649447441101
+syn_000486,Current Digital Tool Use,0.5086679458618164
+syn_000530,Caregiving Challenges – Emotional Impact,0.48400306701660156
+syn_000533,Caregiving Challenges – Emotional Impact,0.4535994529724121
+syn_000539,Caregiving Challenges – Emotional Impact,0.47367000579833984
+syn_000572,Caregiving Challenges – Care Recipient Behavior,0.5120581388473511
+syn_000605,Caregiving Challenges – None Reported,0.48681342601776123
+syn_000637,Support Currently Used,0.4499307870864868
+syn_000645,Support Currently Used,0.43223869800567627
+syn_000660,Support Needed,0.5434762835502625
+syn_000678,Online Support – Willingness,0.3807130455970764
+syn_000686,Online Support – Willingness,0.4385056495666504
+syn_000693,Online Support – Willingness,0.43577468395233154
+syn_000712,Online Support – Barriers,0.4327787756919861
+syn_000726,Current Digital Tool Use,0.4240434169769287
+syn_000744,Current Digital Tool Use,0.45303642749786377
+syn_000751,Caregiving Challenges – Balance & Time,0.48875921964645386
+syn_000761,Caregiving Challenges – Balance & Time,0.47157859802246094
+syn_000783,Caregiving Challenges – Emotional Impact,0.4591752290725708
+syn_000786,Caregiving Challenges – Emotional Impact,0.5209869742393494
+syn_000817,Caregiving Challenges – Care Recipient Behavior,0.45482081174850464
+syn_000846,Caregiving Challenges – Distance Caregiving,0.43203866481781006
+syn_000852,Caregiving Challenges – None Reported,0.4378829598426819
+syn_000866,Caregiving Challenges – None Reported,0.44821345806121826
+syn_000868,Caregiving Challenges – None Reported,0.47869014739990234
+syn_000875,Caregiving Challenges – None Reported,0.42594635486602783
+syn_000906,Support Needed,0.47989821434020996
+syn_000955,Online Support – Barriers,0.4626926779747009
+syn_000979,Current Digital Tool Use,0.4344353675842285
+syn_001060,Caregiving Challenges – Care Recipient Behavior,0.45729154348373413
+syn_001063,Caregiving Challenges – Care Recipient Behavior,0.4265934228897095
+syn_001077,Caregiving Challenges – Distance Caregiving,0.4293776750564575
+syn_001084,Caregiving Challenges – Distance Caregiving,0.47053784132003784
+syn_001109,Caregiving Challenges – None Reported,0.4503975510597229
+syn_001111,Caregiving Challenges – None Reported,0.42411112785339355
+syn_001124,Caregiving Challenges – None Reported,0.4084615707397461
+syn_001178,Online Support – Willingness,0.4456647038459778
+syn_001183,Online Support – Willingness,0.47445452213287354
+syn_001191,Online Support – Willingness,0.4985169768333435
+syn_001201,Online Support – Barriers,0.42030107975006104
+syn_001209,Online Support – Barriers,0.42863404750823975
+syn_001238,Current Digital Tool Use,0.45235908031463623
+syn_001287,Caregiving Challenges – Emotional Impact,0.4476485252380371
+syn_001317,Caregiving Challenges – Care Recipient Behavior,0.4656835198402405
+syn_001318,Caregiving Challenges – Care Recipient Behavior,0.44905662536621094
+syn_001338,Caregiving Challenges – Distance Caregiving,0.4392234683036804
+syn_001357,Caregiving Challenges – None Reported,0.44706231355667114
+syn_001377,Support Currently Used,0.4186963438987732
+syn_001382,Support Currently Used,0.4925503730773926
+syn_001385,Support Currently Used,0.45120781660079956
+syn_001409,Support Needed,0.4834883213043213
+syn_001430,Online Support – Willingness,0.4224788546562195
+syn_001496,Current Digital Tool Use,0.47143715620040894
+syn_001498,Current Digital Tool Use,0.45032453536987305
+syn_001528,Caregiving Challenges – Emotional Impact,0.4509490132331848
+syn_001563,Caregiving Challenges – Care Recipient Behavior,0.4762112498283386
+syn_001567,Caregiving Challenges – Care Recipient Behavior,0.5028960704803467
+syn_001586,Caregiving Challenges – Distance Caregiving,0.46550530195236206
+syn_001597,Caregiving Challenges – Distance Caregiving,0.48283880949020386
+syn_001662,Support Needed,0.4414116144180298
+syn_001668,Support Needed,0.4532129168510437
+syn_001670,Support Needed,0.4858550429344177
+syn_001685,Online Support – Willingness,0.32606905698776245
+syn_001709,Online Support – Barriers,0.46429306268692017
+syn_001726,Current Digital Tool Use,0.435346782207489
+syn_001727,Current Digital Tool Use,0.5218079686164856
+syn_001746,Current Digital Tool Use,0.48922401666641235
+syn_001747,Current Digital Tool Use,0.3887244462966919
+syn_001765,Caregiving Challenges – Balance & Time,0.442264199256897
+syn_001766,Caregiving Challenges – Balance & Time,0.4330151677131653
+syn_001768,Caregiving Challenges – Balance & Time,0.4845890402793884
+syn_001770,Caregiving Challenges – Balance & Time,0.40373891592025757
+syn_001819,Caregiving Challenges – Care Recipient Behavior,0.35433292388916016
+syn_001822,Caregiving Challenges – Care Recipient Behavior,0.4903198480606079
+syn_001833,Caregiving Challenges – Distance Caregiving,0.493924081325531
+syn_001842,Caregiving Challenges – Distance Caregiving,0.44076669216156006
+syn_001845,Caregiving Challenges – Distance Caregiving,0.41325604915618896
+syn_001872,Caregiving Challenges – None Reported,0.4288092255592346
+syn_001877,Support Currently Used,0.4479362964630127
+syn_001969,Online Support – Barriers,0.43109065294265747
+syn_002012,Caregiving Challenges – Balance & Time,0.43477630615234375
+syn_002025,Caregiving Challenges – Balance & Time,0.4672221541404724
+syn_002040,Caregiving Challenges – Emotional Impact,0.420698344707489
+syn_002054,Caregiving Challenges – Care Recipient Behavior,0.4525693655014038
+syn_002094,Caregiving Challenges – Distance Caregiving,0.45824265480041504
+syn_002132,Support Currently Used,0.5212011337280273
+syn_002175,Support Needed,0.46202415227890015
+syn_002176,Online Support – Willingness,0.45908111333847046
+syn_002211,Online Support – Barriers,0.4861319065093994
+syn_002226,Current Digital Tool Use,0.42125189304351807
+syn_002256,Caregiving Challenges – Balance & Time,0.4906327724456787
+syn_002266,Caregiving Challenges – Balance & Time,0.49643099308013916
+syn_002273,Caregiving Challenges – Balance & Time,0.4403650164604187
+syn_002292,Caregiving Challenges – Emotional Impact,0.41557949781417847
+syn_002363,Caregiving Challenges – None Reported,0.37984925508499146
+syn_002392,Support Currently Used,0.4734017252922058
+syn_002476,Current Digital Tool Use,0.4852387309074402
+syn_002482,Current Digital Tool Use,0.426818311214447
+syn_002559,Caregiving Challenges – Care Recipient Behavior,0.44111645221710205
+syn_002581,Caregiving Challenges – Distance Caregiving,0.3666056990623474
+syn_002603,Caregiving Challenges – None Reported,0.44626760482788086
+syn_002621,Caregiving Challenges – None Reported,0.4726393222808838
+syn_002664,Support Needed,0.4785879850387573
+syn_002669,Support Needed,0.447221040725708
+syn_002676,Online Support – Willingness,0.4145246148109436
+syn_002679,Online Support – Willingness,0.47216153144836426
+syn_002682,Online Support – Willingness,0.4972977042198181
+syn_002769,Caregiving Challenges – Balance & Time,0.3819594383239746
+syn_002795,Caregiving Challenges – Emotional Impact,0.4451265335083008
+syn_002813,Caregiving Challenges – Care Recipient Behavior,0.4185575246810913
+syn_002929,Online Support – Willingness,0.4922139048576355
+syn_002941,Online Support – Willingness,0.5372487306594849
+syn_002965,Online Support – Barriers,0.447437047958374
+syn_002979,Current Digital Tool Use,0.42841070890426636
+syn_003010,Caregiving Challenges – Balance & Time,0.4322000741958618
+syn_003020,Caregiving Challenges – Balance & Time,0.4370816946029663
+syn_003072,Caregiving Challenges – Care Recipient Behavior,0.502691388130188
+syn_003086,Caregiving Challenges – Distance Caregiving,0.4872767925262451
+syn_003104,Caregiving Challenges – None Reported,0.49564993381500244
+syn_003125,Caregiving Challenges – None Reported,0.41050291061401367
+syn_003132,Support Currently Used,0.4717921018600464
+syn_003134,Support Currently Used,0.4035786986351013
+syn_003136,Support Currently Used,0.49446988105773926
+syn_003173,Support Needed,0.46973586082458496
+syn_003203,Online Support – Barriers,0.48373085260391235
+syn_003233,Current Digital Tool Use,0.46818095445632935
+syn_003261,Caregiving Challenges – Balance & Time,0.41193848848342896
+syn_003283,Caregiving Challenges – Emotional Impact,0.32938629388809204
+syn_003308,Caregiving Challenges – Care Recipient Behavior,0.5129159092903137
+syn_003319,Caregiving Challenges – Care Recipient Behavior,0.48838919401168823
+syn_003340,Caregiving Challenges – Distance Caregiving,0.4215514063835144
+syn_003392,Support Currently Used,0.48168617486953735
+syn_003418,Support Needed,0.34662503004074097
+syn_003441,Online Support – Willingness,0.4667368531227112
+syn_003459,Online Support – Barriers,0.416593074798584
+syn_003474,Online Support – Barriers,0.42878973484039307
+syn_003496,Current Digital Tool Use,0.4619557857513428
+syn_003500,Current Digital Tool Use,0.4125444293022156
+syn_003513,Caregiving Challenges – Balance & Time,0.4424095153808594
+syn_003515,Caregiving Challenges – Balance & Time,0.4882388710975647
+syn_003528,Caregiving Challenges – Emotional Impact,0.4831993579864502
+syn_003531,Caregiving Challenges – Emotional Impact,0.46468913555145264
+syn_003550,Caregiving Challenges – Emotional Impact,0.4758760333061218
+syn_003559,Caregiving Challenges – Care Recipient Behavior,0.43847668170928955
+syn_003564,Caregiving Challenges – Care Recipient Behavior,0.4799525737762451
+syn_003588,Caregiving Challenges – Distance Caregiving,0.44271671772003174
+syn_003594,Caregiving Challenges – Distance Caregiving,0.4833347201347351
+syn_003606,Caregiving Challenges – None Reported,0.38674360513687134
+syn_003608,Caregiving Challenges – None Reported,0.39348143339157104
+syn_003610,Caregiving Challenges – None Reported,0.39972150325775146
+syn_003623,Caregiving Challenges – None Reported,0.44294530153274536
+syn_003630,Support Currently Used,0.43919283151626587
+syn_003632,Support Currently Used,0.46538352966308594
+syn_003653,Support Needed,0.49814873933792114
+syn_003658,Support Needed,0.44451117515563965
+syn_003683,Online Support – Willingness,0.4365835189819336
+syn_003704,Online Support – Barriers,0.5045334100723267
+syn_003718,Online Support – Barriers,0.47362273931503296
+syn_003728,Current Digital Tool Use,0.5131795406341553
+syn_003742,Current Digital Tool Use,0.44230586290359497
+syn_003746,Current Digital Tool Use,0.47340476512908936
+syn_003759,Support Currently Used,0.40706950426101685
+syn_003791,Caregiving Challenges – Balance & Time,0.39939257502555847
+syn_003797,Caregiving Challenges – Balance & Time,0.48476624488830566
+syn_003839,Caregiving Challenges – Care Recipient Behavior,0.5175325274467468
+syn_003859,Caregiving Challenges – Distance Caregiving,0.43625408411026
+syn_003861,Caregiving Challenges – Distance Caregiving,0.44334328174591064
+syn_003903,Support Needed,0.48285001516342163
+syn_003919,Support Needed,0.45124632120132446
+syn_003921,Support Needed,0.4669386148452759
+syn_003972,Online Support – Barriers,0.5315791964530945
+syn_003976,Current Digital Tool Use,0.46702098846435547
+syn_003994,Current Digital Tool Use,0.4332883358001709
+syn_003999,Current Digital Tool Use,0.4074696898460388
+syn_004009,Support Currently Used,0.5156649947166443
+syn_004039,Caregiving Challenges – Balance & Time,0.44271665811538696
+syn_004047,Caregiving Challenges – Balance & Time,0.47046756744384766
+syn_004054,Caregiving Challenges – Emotional Impact,0.4147607684135437
+syn_004067,Caregiving Challenges – Emotional Impact,0.4223324656486511
+syn_004098,Caregiving Challenges – Distance Caregiving,0.3640241026878357
+syn_004130,Support Needed,0.4811584949493408
+syn_004161,Online Support – Willingness,0.4294389486312866
+syn_004247,Current Digital Tool Use,0.47312337160110474
+syn_004345,Caregiving Challenges – Care Recipient Behavior,0.5057212710380554
+syn_004353,Caregiving Challenges – Distance Caregiving,0.5085608959197998
+syn_004388,Caregiving Challenges – None Reported,0.46962249279022217
+syn_004402,Support Needed,0.48583918809890747
+syn_004414,Support Needed,0.4872869849205017
+syn_004417,Support Needed,0.40239834785461426
+syn_004442,Online Support – Willingness,0.46272438764572144
+syn_004464,Online Support – Barriers,0.4627259373664856
+syn_004468,Online Support – Barriers,0.4857262969017029
+syn_004482,Current Digital Tool Use,0.4170382618904114
+syn_004510,Support Currently Used,0.46212005615234375
+syn_004524,Support Currently Used,0.41580909490585327
+syn_004571,Caregiving Challenges – Emotional Impact,0.468109667301178
+syn_004584,Caregiving Challenges – Care Recipient Behavior,0.3804404139518738
+syn_004591,Caregiving Challenges – Care Recipient Behavior,0.47054630517959595
+syn_004604,Caregiving Challenges – Distance Caregiving,0.44237208366394043
+syn_004608,Caregiving Challenges – Distance Caregiving,0.42922645807266235
+syn_004617,Caregiving Challenges – Distance Caregiving,0.4592365622520447
+syn_004633,Caregiving Challenges – None Reported,0.4169992208480835
+syn_004636,Caregiving Challenges – None Reported,0.38921070098876953
+syn_004638,Caregiving Challenges – None Reported,0.38396966457366943
+syn_004640,Caregiving Challenges – None Reported,0.46300065517425537
+syn_004666,Support Needed,0.4304133653640747
+syn_004676,Online Support – Willingness,0.42400312423706055
+syn_004688,Online Support – Willingness,0.5029691457748413
+syn_004699,Online Support – Willingness,0.47551244497299194
+syn_004705,Online Support – Barriers,0.4297754168510437
+syn_004729,Current Digital Tool Use,0.356317400932312
+syn_004751,Support Currently Used,0.41694217920303345
+syn_004777,Caregiving Challenges – Balance & Time,0.4028722643852234
+syn_004786,Caregiving Challenges – Balance & Time,0.421833336353302
+syn_004791,Caregiving Challenges – Balance & Time,0.4479670524597168
+syn_004794,Caregiving Challenges – Balance & Time,0.41399431228637695
+syn_004804,Caregiving Challenges – Emotional Impact,0.4663175344467163
+syn_004807,Caregiving Challenges – Emotional Impact,0.4553472399711609
+syn_004808,Caregiving Challenges – Emotional Impact,0.4319022297859192
+syn_004823,Caregiving Challenges – Emotional Impact,0.5146285891532898
+syn_004854,Caregiving Challenges – Distance Caregiving,0.4245656132698059
+syn_004891,Caregiving Challenges – None Reported,0.4267979860305786
+syn_004894,Caregiving Challenges – None Reported,0.44605809450149536
+syn_004906,Support Needed,0.49474501609802246
+syn_004918,Support Needed,0.49635428190231323
+syn_004940,Online Support – Willingness,0.4715932011604309
+syn_004943,Online Support – Willingness,0.4307097792625427
+syn_004944,Online Support – Willingness,0.4231138229370117
+syn_004955,Online Support – Barriers,0.468166708946228
+syn_004963,Online Support – Barriers,0.36950623989105225
+syn_005001,Support Currently Used,0.4454577565193176
+syn_005011,Support Currently Used,0.4891529083251953
+syn_005036,Caregiving Challenges – Balance & Time,0.39934855699539185
+syn_005039,Caregiving Challenges – Balance & Time,0.4685332179069519
+syn_005041,Caregiving Challenges – Balance & Time,0.38900187611579895
+syn_005045,Caregiving Challenges – Balance & Time,0.3785563111305237
+syn_005050,Caregiving Challenges – Emotional Impact,0.43171191215515137
+syn_005075,Caregiving Challenges – Care Recipient Behavior,0.46516716480255127
+syn_005102,Caregiving Challenges – Distance Caregiving,0.4477272033691406
+syn_005134,Caregiving Challenges – None Reported,0.4786601662635803
+syn_005148,Caregiving Challenges – None Reported,0.37317442893981934
+syn_005178,Online Support – Willingness,0.4545022249221802
+syn_005206,Online Support – Barriers,0.43497997522354126
+syn_005216,Online Support – Barriers,0.458751380443573
+syn_005223,Online Support – Barriers,0.4807484745979309
+syn_005226,Current Digital Tool Use,0.441891610622406
+syn_005257,Support Currently Used,0.19132864475250244
+syn_005278,Caregiving Challenges – Balance & Time,0.3652961850166321
+syn_005294,Caregiving Challenges – Balance & Time,0.4210354685783386
+syn_005295,Caregiving Challenges – Balance & Time,0.41883236169815063
+syn_005341,Caregiving Challenges – Care Recipient Behavior,0.4569939970970154
+syn_005364,Caregiving Challenges – Distance Caregiving,0.42121851444244385
+syn_005371,Caregiving Challenges – Distance Caregiving,0.4261440634727478
+syn_005395,Caregiving Challenges – None Reported,0.44113582372665405
+syn_005425,Online Support – Willingness,0.4175015687942505
+syn_005453,Online Support – Barriers,0.45477956533432007
+syn_005463,Online Support – Barriers,0.4676998257637024
+syn_005484,Current Digital Tool Use,0.4438630938529968
+syn_005489,Current Digital Tool Use,0.39780300855636597
+syn_005509,Support Currently Used,0.3996696472167969
+syn_005521,Support Currently Used,0.46180492639541626
+syn_005524,Support Currently Used,0.49755001068115234
+syn_005574,Caregiving Challenges – Emotional Impact,0.4592024087905884
+syn_005578,Caregiving Challenges – Care Recipient Behavior,0.45723050832748413
+syn_005583,Caregiving Challenges – Care Recipient Behavior,0.4590872526168823
+syn_005622,Caregiving Challenges – Distance Caregiving,0.5050916075706482
+syn_005640,Caregiving Challenges – None Reported,0.5071510076522827
+syn_005657,Support Needed,0.4667680263519287
+syn_005715,Online Support – Barriers,0.49288666248321533
+syn_005728,Current Digital Tool Use,0.4194282293319702
+syn_005764,Support Currently Used,0.47448474168777466
+syn_005832,Caregiving Challenges – Care Recipient Behavior,0.476495623588562
+syn_005841,Caregiving Challenges – Care Recipient Behavior,0.46953916549682617
+syn_005862,Caregiving Challenges – Distance Caregiving,0.43051689863204956
+syn_005902,Support Needed,0.4857258200645447
+syn_005910,Support Needed,0.5244567394256592
+syn_005939,Online Support – Willingness,0.4184046983718872
+syn_005967,Online Support – Barriers,0.45478981733322144
+syn_006053,Caregiving Challenges – Emotional Impact,0.40743619203567505
+syn_006098,Caregiving Challenges – Care Recipient Behavior,0.5183828473091125
+syn_006100,Caregiving Challenges – Distance Caregiving,0.415945827960968
+syn_006139,Caregiving Challenges – None Reported,0.4988691210746765
+syn_006154,Support Needed,0.3871985077857971
+syn_006173,Support Needed,0.4532163143157959
+syn_006183,Online Support – Willingness,0.49521833658218384
+syn_006186,Online Support – Willingness,0.4831305146217346
+syn_006201,Online Support – Barriers,0.4379570484161377
+syn_006207,Online Support – Barriers,0.43231749534606934
+syn_006210,Online Support – Barriers,0.44513505697250366
+syn_006256,Support Currently Used,0.44172924757003784
+syn_006259,Support Currently Used,0.4776407480239868
+syn_006260,Support Currently Used,0.40204042196273804
+syn_006304,Caregiving Challenges – Emotional Impact,0.4578983783721924
+syn_006310,Caregiving Challenges – Emotional Impact,0.4452231526374817
+syn_006313,Caregiving Challenges – Emotional Impact,0.47260117530822754
+syn_006338,Caregiving Challenges – Care Recipient Behavior,0.4727817177772522
+syn_006363,Caregiving Challenges – Distance Caregiving,0.48588794469833374
+syn_006390,Caregiving Challenges – None Reported,0.4187731146812439
+syn_006410,Support Needed,0.48347538709640503
+syn_006413,Support Needed,0.4344717860221863
+syn_006421,Support Needed,0.423957884311676
+syn_006440,Online Support – Willingness,0.4193647503852844
+syn_006470,Online Support – Barriers,0.36982953548431396
+syn_006503,Caregiving Challenges – Care Recipient Behavior,0.4371207356452942
+syn_006508,Caregiving Challenges – Care Recipient Behavior,0.4657461643218994
+syn_006510,Caregiving Challenges – Care Recipient Behavior,0.5060564875602722
+syn_006518,Caregiving Challenges – Care Recipient Behavior,0.4038509130477905
+syn_006521,Caregiving Challenges – Care Recipient Behavior,0.4448373317718506
+syn_006539,Support Currently Used,0.40935784578323364
+syn_006568,Caregiving Challenges – Balance & Time,0.44880759716033936
+syn_006607,Caregiving Challenges – Distance Caregiving,0.4356357455253601
+syn_006625,Caregiving Challenges – None Reported,0.38791000843048096
+syn_006694,Online Support – Willingness,0.3785012364387512
+syn_006706,Online Support – Barriers,0.4840571880340576
+syn_006712,Online Support – Barriers,0.45995575189590454
+syn_006725,Current Digital Tool Use,0.3806126117706299
+syn_006733,Current Digital Tool Use,0.44437748193740845
+syn_006777,Support Currently Used,0.4033561944961548
+syn_006789,Support Currently Used,0.41421663761138916
+syn_006810,Caregiving Challenges – Balance & Time,0.3654547333717346
+syn_006837,Caregiving Challenges – Emotional Impact,0.3947446644306183
+syn_006866,Caregiving Challenges – Distance Caregiving,0.4253377914428711
+syn_006887,Caregiving Challenges – None Reported,0.4271010160446167
+syn_006893,Caregiving Challenges – None Reported,0.4074549078941345
+syn_006966,Online Support – Barriers,0.4460952877998352
+syn_007031,Support Currently Used,0.4789555072784424
+syn_007044,Support Currently Used,0.468841552734375
+syn_007061,Caregiving Challenges – Balance & Time,0.40739184617996216
+syn_007078,Caregiving Challenges – Emotional Impact,0.47365766763687134
+syn_007086,Caregiving Challenges – Emotional Impact,0.4707503318786621
+syn_007093,Caregiving Challenges – Emotional Impact,0.4835911989212036
+syn_007097,Caregiving Challenges – Emotional Impact,0.47667890787124634
+syn_007107,Caregiving Challenges – Distance Caregiving,0.38298434019088745
+syn_007152,Support Needed,0.3950938582420349
+syn_007163,Support Needed,0.4942207932472229
+syn_007172,Support Needed,0.3967929482460022
+syn_007186,Online Support – Willingness,0.48490023612976074
+syn_007198,Online Support – Willingness,0.41640138626098633
+syn_007241,Current Digital Tool Use,0.4741947650909424
+syn_007248,Caregiving Challenges – Care Recipient Behavior,0.5143569111824036
+syn_007257,Caregiving Challenges – Care Recipient Behavior,0.4696075916290283
+syn_007283,Support Currently Used,0.4656863808631897
+syn_007308,Caregiving Challenges – Balance & Time,0.4164043664932251
+syn_007323,Current Digital Tool Use,0.4651714563369751
+syn_007352,Caregiving Challenges – Emotional Impact,0.46892762184143066
+syn_007375,Caregiving Challenges – Distance Caregiving,0.4578692317008972
+syn_007390,Caregiving Challenges – Distance Caregiving,0.5205482244491577
+syn_007408,Caregiving Challenges – None Reported,0.47929757833480835
+syn_007417,Caregiving Challenges – None Reported,0.45480072498321533
+syn_007479,Online Support – Barriers,0.4632954001426697
+syn_007518,Caregiving Challenges – Care Recipient Behavior,0.3490905165672302
+syn_007534,Support Currently Used,0.469760537147522
+syn_007537,Support Currently Used,0.42938780784606934
+syn_007554,Current Digital Tool Use,0.38349610567092896
+syn_007574,Caregiving Challenges – Balance & Time,0.4194946885108948
+syn_007588,Caregiving Challenges – Balance & Time,0.482036292552948
+syn_007589,Caregiving Challenges – Balance & Time,0.4464254379272461
+syn_007610,Caregiving Challenges – Emotional Impact,0.4326460361480713
+syn_007615,Caregiving Challenges – Emotional Impact,0.36988604068756104
+syn_007741,Online Support – Barriers,0.42097777128219604
+syn_007742,Online Support – Barriers,0.5027748346328735
+syn_007758,Caregiving Challenges – Care Recipient Behavior,0.3977826237678528
+syn_007785,Support Currently Used,0.44510966539382935
+syn_007833,Caregiving Challenges – Balance & Time,0.48871302604675293
+syn_007860,Caregiving Challenges – Emotional Impact,0.5369815826416016
+syn_007869,Caregiving Challenges – Emotional Impact,0.49298518896102905
+syn_007910,Caregiving Challenges – None Reported,0.453360915184021
+syn_007936,Support Needed,0.4000903367996216
+syn_007941,Support Needed,0.47076672315597534
+syn_007960,Online Support – Willingness,0.4284800887107849
+syn_007968,Online Support – Willingness,0.458779513835907
+syn_007970,Online Support – Willingness,0.5067099928855896
+syn_007973,Online Support – Barriers,0.4172644019126892
+syn_007974,Online Support – Barriers,0.4848231077194214
+syn_007985,Online Support – Barriers,0.4494084119796753
+syn_007990,Online Support – Barriers,0.48768067359924316
+syn_008020,Caregiving Challenges – Care Recipient Behavior,0.46883660554885864
+syn_008022,Caregiving Challenges – Care Recipient Behavior,0.46133196353912354
+syn_008032,Support Currently Used,0.4830920100212097
+syn_008061,Current Digital Tool Use,0.48179924488067627
+syn_008063,Current Digital Tool Use,0.40592628717422485
+syn_008071,Current Digital Tool Use,0.5194220542907715
+syn_008078,Caregiving Challenges – Balance & Time,0.4360637664794922
+syn_008140,Caregiving Challenges – Distance Caregiving,0.43659889698028564
+syn_008142,Caregiving Challenges – Distance Caregiving,0.433211088180542
+syn_008183,Support Needed,0.48718810081481934
+syn_008184,Support Needed,0.4984976053237915
+syn_008195,Support Needed,0.42997050285339355
+syn_008236,Online Support – Barriers,0.5201320648193359
+syn_008248,Caregiving Challenges – Care Recipient Behavior,0.41629165410995483
+syn_008276,Support Currently Used,0.4790390729904175
+syn_008302,Current Digital Tool Use,0.423769474029541
+syn_008331,Caregiving Challenges – Balance & Time,0.4340628981590271
+syn_008347,Caregiving Challenges – Balance & Time,0.4437825679779053
+syn_008351,Caregiving Challenges – Emotional Impact,0.47043806314468384
+syn_008386,Caregiving Challenges – Distance Caregiving,0.40338563919067383
+syn_008388,Caregiving Challenges – Distance Caregiving,0.42957794666290283
+syn_008428,Support Needed,0.45023781061172485
+syn_008449,Online Support – Willingness,0.4532604217529297
+syn_008464,Online Support – Willingness,0.39761167764663696
+syn_008467,Online Support – Willingness,0.486380934715271
+syn_008469,Online Support – Willingness,0.43279922008514404
+syn_008552,Current Digital Tool Use,0.49634110927581787
+syn_008563,Current Digital Tool Use,0.41373735666275024
+syn_008567,Current Digital Tool Use,0.5421625375747681
+syn_008579,Caregiving Challenges – Balance & Time,0.3978235125541687
+syn_008605,Caregiving Challenges – Emotional Impact,0.4308152198791504
+syn_008609,Caregiving Challenges – Emotional Impact,0.4614422917366028
+syn_008616,Caregiving Challenges – Emotional Impact,0.4481203556060791
+syn_008639,Caregiving Challenges – Distance Caregiving,0.5089474320411682
+syn_008641,Caregiving Challenges – Distance Caregiving,0.4605029821395874
+syn_008663,Caregiving Challenges – None Reported,0.4296568036079407
+syn_008683,Support Needed,0.5023576617240906
+syn_008717,Online Support – Willingness,0.4567575454711914
+syn_008764,Support Currently Used,0.4669526219367981
+syn_008786,Current Digital Tool Use,0.44972139596939087
+syn_008801,Caregiving Challenges – Care Recipient Behavior,0.5063334703445435
+syn_008808,Caregiving Challenges – Care Recipient Behavior,0.46573740243911743
+syn_008821,Caregiving Challenges – Care Recipient Behavior,0.4323711395263672
+syn_008827,Caregiving Challenges – Balance & Time,0.37449055910110474
+syn_008842,Caregiving Challenges – Balance & Time,0.472867488861084
+syn_008860,Caregiving Challenges – Emotional Impact,0.5237586498260498
+syn_008869,Caregiving Challenges – Emotional Impact,0.48138338327407837
+syn_008886,Caregiving Challenges – Distance Caregiving,0.2790846824645996
+syn_008900,Caregiving Challenges – None Reported,0.4380224347114563
+syn_008901,Caregiving Challenges – None Reported,0.3828270137310028
+syn_008915,Caregiving Challenges – None Reported,0.39671918749809265
+syn_008982,Online Support – Barriers,0.4021815061569214
+syn_009040,Support Currently Used,0.412175714969635
+syn_009048,Current Digital Tool Use,0.4961913824081421
+syn_009058,Current Digital Tool Use,0.4764871597290039
+syn_009088,Caregiving Challenges – Balance & Time,0.513249397277832
+syn_009131,Caregiving Challenges – Distance Caregiving,0.42341434955596924
+syn_009139,Caregiving Challenges – Distance Caregiving,0.4812623858451843
+syn_009142,Caregiving Challenges – Distance Caregiving,0.49433010816574097
+syn_009165,Caregiving Challenges – None Reported,0.4766134023666382
+syn_009166,Caregiving Challenges – None Reported,0.4099879860877991
+syn_009189,Support Needed,0.40180307626724243
+syn_009199,Online Support – Willingness,0.41811031103134155
+syn_009212,Online Support – Willingness,0.4521712064743042
+syn_009220,Online Support – Willingness,0.49339109659194946
+syn_009285,Support Currently Used,0.4932457208633423
+syn_009286,Support Currently Used,0.38333582878112793
+syn_009308,Current Digital Tool Use,0.4237251281738281
+syn_009332,Caregiving Challenges – Balance & Time,0.4203731417655945
+syn_009405,Caregiving Challenges – None Reported,0.5033565759658813
+syn_009456,Online Support – Willingness,0.5099412798881531
+syn_009481,Online Support – Barriers,0.392999529838562
+syn_009494,Online Support – Barriers,0.46953171491622925
+syn_009539,Support Currently Used,0.452997624874115
+syn_009566,Current Digital Tool Use,0.49166184663772583
+syn_009567,Current Digital Tool Use,0.4682820439338684
+syn_009603,Caregiving Challenges – Emotional Impact,0.3583446145057678
+syn_009663,Caregiving Challenges – None Reported,0.3535478115081787
+syn_009672,Caregiving Challenges – None Reported,0.3997088074684143
+syn_009679,Support Needed,0.4455116391181946
+syn_009762,Caregiving Challenges – Care Recipient Behavior,0.45041877031326294
+syn_009765,Caregiving Challenges – Care Recipient Behavior,0.45157909393310547
+syn_009784,Support Currently Used,0.4253397583961487
+syn_009807,Current Digital Tool Use,0.39045250415802
+syn_009826,Caregiving Challenges – Balance & Time,0.4498559832572937
+syn_009832,Caregiving Challenges – Balance & Time,0.4138123393058777
+syn_009849,Caregiving Challenges – Emotional Impact,0.455488920211792
+syn_009868,Caregiving Challenges – Emotional Impact,0.45520228147506714
+syn_009878,Caregiving Challenges – Distance Caregiving,0.3968242406845093
+syn_009889,Caregiving Challenges – Distance Caregiving,0.4044110178947449
+syn_009891,Caregiving Challenges – Distance Caregiving,0.49407899379730225
+syn_009908,Caregiving Challenges – None Reported,0.41973376274108887
+syn_009917,Caregiving Challenges – None Reported,0.4500006437301636
+syn_009925,Support Needed,0.4172224998474121
+syn_009939,Support Needed,0.41635221242904663
+syn_009948,Online Support – Willingness,0.4396488666534424
+syn_009956,Online Support – Willingness,0.4667842388153076
+syn_009969,Online Support – Willingness,0.46908271312713623

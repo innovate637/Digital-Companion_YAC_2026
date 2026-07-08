@@ -1,0 +1,7 @@
+condition,n,BLEURT_mean
+baseline,500,0.4735
+rag_only,500,0.4688
+rag_only_v2,500,0.4652
+ft_only,500,0.448
+ft_rag,500,0.446
+ft_rag_v2,500,0.4381
