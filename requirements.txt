@@ -1,5 +1,8 @@
-streamlit
+# Pinned for reproducible builds on Streamlit Community Cloud.
+# Verified together on Python 3.12.
+streamlit==1.62.0
 langchain==0.3.25
 langchain-core==0.3.74
 langchain-fireworks==0.3.0
-pillow
+fireworks-ai==1.2.9
+pillow==12.1.1
