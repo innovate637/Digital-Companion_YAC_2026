@@ -1,0 +1,5 @@
+streamlit
+langchain==0.3.25
+langchain-core==0.3.74
+langchain-fireworks==0.3.0
+pillow
