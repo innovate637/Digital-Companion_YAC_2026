@@ -187,11 +187,23 @@ if prompt := st.chat_input("What is on your mind?"):
 
     all_context = [SystemMessage(content=instruction)] + session_messages
 
+    # Gemma's chat template has no system role and requires strict user/assistant
+    # alternation. A leading system message gets folded into the first turn automatically,
+    # but a system message appearing AFTER a user turn has nowhere to go and blows up
+    # template rendering server-side (500). The conciseness instruction used to be sent
+    # as a trailing SystemMessage here - fold it into the last (just-submitted) user turn
+    # instead. all_context[-1] is always the HumanMessage just appended to session state
+    # above, so this is safe.
+    turns = list(all_context)
+    turns[-1] = HumanMessage(
+        content=turns[-1].content + "\n\n(Keep your response concise, except when asked for details.)"
+    )
+
     # generate. Retried a couple of times with a short backoff because the Fireworks
     # deployment (minReplicaCount=1, no failover) intermittently returns a transient
     # 500 ("server had an error while processing your request") under real usage -
     # confirmed recurring during app testing, see RUN_LOG.md.
-    generate_input = [all_context + [SystemMessage(content="\nKeep your response concise, except when asked for details\n")]]
+    generate_input = [turns]
 
     response = None
     with st.spinner("Thinking..."):
@@ -199,7 +211,10 @@ if prompt := st.chat_input("What is on your mind?"):
             try:
                 response = llm.generate(generate_input)
                 break
-            except Exception:
+            except Exception as e:
+                # Printed (not swallowed) so the real cause is visible in Streamlit
+                # Cloud's "Manage app" logs instead of vanishing behind the fallback text.
+                print(f"[carebot] generate attempt {attempt + 1}/3 failed: {type(e).__name__}: {e}")
                 if attempt < 2:
                     time.sleep(2)
 
