@@ -1,6 +1,6 @@
 # Secrets - never commit
 .streamlit/secrets.toml
-.env
+*.env
 *.pem
 
 # Python
